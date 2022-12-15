@@ -1,0 +1,16 @@
+appresources.line.naver.jp
+api.camera.line.naver.jp
+dl.appresource.line.naver.jp
+event.play.naver.jp
+fapi-diary.play.naver.jp
+fapi.play.naver.jp
+jp-col-tcp.nelo.linecorp.com
+ndrive.naver.jp
+nelo2-col.linecorp.com
+play.naver.jp
+poker.line.naver.jp
+stf.line.naver.jp
+api.myxl.xlaxiata.co.id
+lyncdiscover.xl.co.id
+spesialuntukmu.xlaxiata.co.id
+123.xl.co.id

@@ -1,0 +1,6 @@
+112.215.101.66 subject=/CN=*.nextvpn.cc
+112.215.156.211 subject=/CN=*.nextvpn.cc
+112.215.156.226 subject=/CN=*.nextvpn.cc
+112.215.103.233 subject=/CN=*.nextvpn.cc
+112.215.105.109 subject=/CN=*.nextvpn.cc
+112.215.83.30 subject=/CN=*.nextvpn.cc

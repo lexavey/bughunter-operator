@@ -1,0 +1,11 @@
+301|edge-star-mini-shv-01-gmp1.facebook.com
+301|edge-star-mini-shv-01-cdt1.facebook.com
+301|edge-star-mini-shv-01-dus1.facebook.com
+301|edge-z-m-mini-shv-01-nrt1.facebook.com
+301|edge-z-m-mini-shv-01-mxp1.facebook.com
+301|edge-z-m-mini-shv-01-mad1.facebook.com
+301|edge-z-m-mini-shv-01-vie1.facebook.com
+301|edge-z-m-mini-shv-01-waw1.facebook.com
+301|edge-z-m-mini-shv-01-sof1.facebook.com
+301|l.facebook.com
+301|m.facebook.com

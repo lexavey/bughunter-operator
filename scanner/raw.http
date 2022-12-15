@@ -1,0 +1,1 @@
+GET wss://www.skillacademy.com/ HTTP/1.1\r\nHost: sanggoro5.nextvpn.cc\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nConnection: Keep-Alive\r\n\r\n

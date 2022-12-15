@@ -1,0 +1,2 @@
+server01-cdn.pleiade-beta.g4b.gameloft.com
+server02-cdn.pleiade-beta.g4b.gameloft.com

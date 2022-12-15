@@ -1,0 +1,2 @@
+egw.xl.co.id
+staging-egw.xl.co.id

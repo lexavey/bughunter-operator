@@ -1,0 +1,3 @@
+Opsel Indonesia
+tcp lh6.googleusercontent.com
+html5 beta.speedtest.net

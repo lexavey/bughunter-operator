@@ -1,0 +1,12 @@
+developers.linecorp.com
+feedback.line.naver.jp
+line.naver.jp
+line-web.naver.jp
+naverland.naver.jp
+pr.line.naver.jp
+tauth.line.naver.jp
+beta-xlaxiata.ext.dp.xl.co.id
+my.xl.co.id
+www.xlaxiata.co.id
+xl.co.id
+ntax.linecorp.com

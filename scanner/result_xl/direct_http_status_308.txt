@@ -1,0 +1,5 @@
+account.matome.naver.jp
+developer.xlaxiata.co.id
+help.naver.jp
+matome.naver.jp
+provider.xlaxiata.co.id

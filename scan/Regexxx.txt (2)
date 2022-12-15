@@ -1,0 +1,3 @@
+awk '
+    /^li/ { found = 1 }
+    found { print }'
