@@ -82,8 +82,8 @@ start() {
       echo
       echo "Usage:"
       echo "    $0 help                       Show this message"
-      echo "    $0 scan [type]                                  "
-      echo "    $0      example : scan ssl                                  "
+      echo "    $0 scan [type[help,sni_curl,sni_openssl,http_status,https_status]]                                  "
+      echo "       use scan help                                  "
       echo "    $0 install ls                         List available packages"
       echo
     ;;
