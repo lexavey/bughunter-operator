@@ -15,7 +15,8 @@ has() {
 
 if has "curl"; then
   DOWNLOAD() {
-    curl -sSL -o "$2" "$1"
+    echo "Download parallel"
+    curl -SL -o "$2" "$1"
   }
 else
   echo "Error: you need curl or wget to proceed" >&2;
@@ -33,9 +34,9 @@ colorize_text(){
 
 check_deps(){
     if ! has "./bin/parallel"; then
-        DOWNLOAD http://git.savannah.gnu.org/cgit/parallel.git/plain/src/parallel parallel
-        chmod 755 parallel
-        printf "will cite" | ./parallel --citation &> /dev/null
+        DOWNLOAD http://git.savannah.gnu.org/cgit/parallel.git/plain/src/parallel ./bin/parallel
+        chmod 755 ./bin/parallel
+        printf "will cite" | ./bin/parallel --citation &> /dev/null
     fi
 }
 func_sni_curl(){
