@@ -283,7 +283,7 @@ func_get_folder(){
         # mv "$file" archive
         file_total_lines=$(cat $file_to_scan| wc -l)
         pad_number_length=$(echo $file_total_lines|awk '{ print length; }')
-        ./parallel -k -j $DEFAULT_THREAD -a $file_to_scan $function_to_exec {} "bulk" {#} $file_total_lines $pad_number_length
+        ./bin/parallel -k -j $DEFAULT_THREAD -a $file_to_scan $function_to_exec {} "bulk" {#} $file_total_lines $pad_number_length
         rm $file_to_scan
         echo
         echo "Job done for $file";

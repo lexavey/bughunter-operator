@@ -3,7 +3,7 @@
 ## Requirements
 Install `curl` `openssl` `nmap` `git`
 
-    apt update
+    apt update && apt upgrade
     apt install curl nmap openssl git -y
 ## Quickstart
 ### Step 1 
