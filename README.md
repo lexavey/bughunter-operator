@@ -17,4 +17,4 @@ Install `curl` `openssl` `nmap` `git`
     cp archive/xl/xl.co.id.txt list
 ### Step 3 
 #### Scan 
-        ./scan.sh scan sni_curl bulk
+    ./scan.sh scan sni_curl bulk
