@@ -31,7 +31,18 @@ colorize_text(){
     magenta=$'\e[01;35m'
     resetColor=$'\e[0m'
 }
-
+updatescript() {
+    # without this git merge fails on windows
+    # mv ./scripts/install-sdk.sh  './scripts/.#install-sdk-tmp.sh'
+    # rm -f ./scripts/.install-sdk-tmp.sh 
+    # cp './scripts/.#install-sdk-tmp.sh' ./scripts/install-sdk.sh
+    # git checkout -- ./scripts/install-sdk.sh
+    colorize_text
+    git remote add bughunter-operator https://github.com/lexavey/bughunter-operator 2> /dev/null || true
+    git fetch bughunter-operator
+    git merge bughunter-operator/master --ff-only || \
+        echo "${yellow}Couldn't automatically update ${resetColor}"
+}
 check_deps(){
     if ! has "./bin/parallel"; then
         DOWNLOAD http://git.savannah.gnu.org/cgit/parallel.git/plain/src/parallel ./bin/parallel
@@ -352,6 +363,7 @@ start() {
     helper "$0 help                                                            Show this message"
     helper "$0 scan [help,sni_curl,sni_openssl,http_status,https_status,proxy] Scan List"
     helper "$0 generate [help,ip]                                              Generate list IP"
+    helper "$0 update                                                          Update this script"
     echo 
     ;;
 
@@ -706,6 +718,9 @@ start() {
             start $1 base
         ;;
         esac
+    ;;
+    "update" )
+      updatescript
     ;;
     "base" )
       start help
