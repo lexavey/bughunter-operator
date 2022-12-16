@@ -1,7 +1,7 @@
 #!/bin/bash -e
 export DEFAULT_SNI_HOST="sanggoro5.nextvpn.cc" ## sni_curl,sni_openssl
 export DEFAULT_USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.100" ## http_status,https_status,proxy
-export BLACKLIST_REDIRECT="http://www.google.com/" ## http_status,https_status,proxy
+export BLACKLIST_REDIRECT="http://filter.ncnd.indosatooredoo.com/nc/" ## http_status,https_status,proxy
 export DEFAULT_CONNECT_TIMEOUT="5" ## sni_curl
 export DEFAULT_MAX_TIMEOUT="5" ## sni_curl
 export DEFAULT_TIMEOUT="10" ## sni_openssl
@@ -110,7 +110,7 @@ func_http_status(){
         else
             printf "[${green} %s ${resetColor}]\n" "$code"
         fi
-    elif [[ $code == "301" ]]; then
+    elif [[ $code == "301" ]] || [[ $code == "302" ]]; then
         redirect_url=$(printf '%s' "$gocurl" | awk '{print $2}')
         if [ "$echo_type" == "bulk" ]; then
             if [[ $redirect_url == $BLACKLIST_REDIRECT ]];then
