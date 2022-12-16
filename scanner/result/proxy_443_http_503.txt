@@ -1,7 +1,0 @@
-gold.gameloft.com
-sg1.signedcall.clevertap-prod.com
-eu1.signedcall.clevertap-prod.com
-in1.signedcall.clevertap-prod.com
-sk1.signedcall.clevertap-prod.com
-us1-demo.clevertap-prod.com
-us1.signedcall.clevertap-prod.com

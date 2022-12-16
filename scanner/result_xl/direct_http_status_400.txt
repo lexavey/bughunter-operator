@@ -1,5 +1,0 @@
-dl-hsp.profile.line.naver.jp
-obs-cn.rts.line.naver.jp
-obs-tw.rts.line.naver.jp
-storage.linecorp.com
-terms.play.naver.jp

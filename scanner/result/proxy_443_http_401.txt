@@ -1,4 +1,0 @@
-jurassic-alpha.g4b.gameloft.com
-jurassic-beta.g4b.gameloft.com
-swagger.g4b.gameloft.com
-fpc.www.3.dk

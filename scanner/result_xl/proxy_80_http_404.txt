@@ -1,6 +1,0 @@
-channel.play.naver.jp
-en.lineblog.naver.jp
-lineblog.naver.jp
-vaccine.line.naver.jp
-vks-public-ingress-linehub-tw.linecorp.com
-org.stickershop.line.naver.jp

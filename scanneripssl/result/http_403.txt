@@ -1,9 +1,0 @@
-download.spotify.com
-dp58aslhmbcib.cloudfront.net
-dplive-i.akamaihd.net
-download.sj.qq.com
-downloads.s3.amazonaws.com
-dp-ph.ypncdn.com
-dp.ypncdn.com
-dpacnc.s3.amazonaws.com
-download.netmarble.net

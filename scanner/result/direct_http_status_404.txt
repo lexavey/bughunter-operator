@@ -1,3 +1,0 @@
-images.bima.tri.co.id
-survey.tri.co.id
-static.tri.co.id

@@ -1,9 +1,0 @@
-content.appsflyer.com https://www.appsflyer.com/
-help.appsflyer.com https://support.appsflyer.com:443/
-support.appsflyer.com https://support.appsflyer.com/hc
-content.appsflyer.com https://www.appsflyer.com/
-help.appsflyer.com https://support.appsflyer.com:443/
-support.appsflyer.com https://support.appsflyer.com/hc
-content.appsflyer.com https://www.appsflyer.com/
-help.appsflyer.com https://support.appsflyer.com:443/
-support.appsflyer.com https://support.appsflyer.com/hc
