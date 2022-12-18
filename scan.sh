@@ -5,7 +5,11 @@ export BLACKLIST_REDIRECT="http://filter.ncnd.indosatooredoo.com/nc/" ## http_st
 export DEFAULT_CONNECT_TIMEOUT="5" ## sni_curl
 export DEFAULT_MAX_TIMEOUT="5" ## sni_curl
 export DEFAULT_TIMEOUT="10" ## sni_openssl
-export DEFAULT_THREAD="100" ## bulk
+export DEFAULT_THREAD="200" ## bulk
+
+
+
+
 
 # set -e
 has() {
@@ -100,25 +104,24 @@ func_sni_openssl(){
 func_http_status(){
     host_target=$1
     echo_type=$2
-    tmp_file=$(mktemp)
+    tmp_file=$(mktemp -u tmp/HTTP_XXXXXXX)
     colorize_text
     gocurl=$(curl -o $tmp_file -s "http://$host_target" -k -H "user-agent: $DEFAULT_USER_AGENT" --connect-timeout $DEFAULT_CONNECT_TIMEOUT --max-time $DEFAULT_MAX_TIMEOUT --write-out '%{http_code} %{redirect_url}')
     code=$(printf '%s' "$gocurl" | awk '{print $1}')
-    stdout=$(printf '%s' "$gocurl" | awk '{print $3}')
     if [[ $code == "200" ]]; then
         if [ "$echo_type" == "bulk" ]; then
             printf "[~%0${5}d~ ~%s~]~%-100s~[${green}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
         else
             printf "[${green} %s ${resetColor}]\n" "$code"
         fi
-        printf "%s\n%s\n" "---------------------------[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/http_status_$code.txt"
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/http_status_$code.txt"
         rm -rf $tmp_file
-        exit 1;
-    elif [[ $code == "301" ]] || [[ $code == "302" ]]; then
+        exit;
+    elif [ $code == "301" ] || [ $code == "302" ]; then
         redirect_url=$(printf '%s' "$gocurl" | awk '{print $2}')
         if [ "$echo_type" == "bulk" ]; then
             if [[ $redirect_url == $BLACKLIST_REDIRECT ]];then
-                printf "[~%0${5}d~ ~%s~]~%-100s~[${red}%s${resetColor}]\r" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
+                printf "[~%0${5}d~ ~%s~]~%-100s~[${red}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
             else
                 printf "[~%0${5}d~ ~%s~]~%-100s~[${green}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
             fi
@@ -129,18 +132,18 @@ func_http_status(){
                 printf "[${green} %s ${resetColor}] $redirect_url\n" "$code"
             fi
         fi
-        printf "%s\n%s\n" "---------------------------[ $host_target ]---------------------------" "($redirect_url)">>"result/http_status_$code.txt"
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "($redirect_url)">>"result/http_status_$code.txt"
         rm -rf $tmp_file
-        exit 1;
+        exit;
     elif [[ $code != "000" ]]; then
         if [ "$echo_type" == "bulk" ]; then
             printf "[~%0${5}d~ ~%s~]~%-100s~[${yellow}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
         else
             printf "[${yellow} %s ${resetColor}]\n" "$code"
         fi
-        printf "%s\n%s\n" "---------------------------[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/http_status_$code.txt"
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/http_status_$code.txt"
         rm -rf $tmp_file
-        exit 1;
+        exit;
     else
         if [ "$echo_type" == "bulk" ]; then
             printf "[~%0${5}d~ ~%s~]~%-100s~[${red}%s${resetColor}]\r" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
@@ -148,15 +151,15 @@ func_http_status(){
             printf "[${red} %s ${resetColor}]\n" "$code"
         fi
         rm -rf $tmp_file
-        exit 1;
+        exit;
     fi
 
     rm -rf $tmp_file
 }
 func_https_status(){
     host_target=$1
-    host_check=$DEFAULT_SNI_HOST
     echo_type=$2
+    tmp_file=$(mktemp -u tmp/HTTPS_XXXXXXX)
     colorize_text
     gocurl=$(curl -o /dev/null -s "https://$host_target" -k -H "user-agent: $DEFAULT_USER_AGENT" --connect-timeout $DEFAULT_CONNECT_TIMEOUT --max-time $DEFAULT_MAX_TIMEOUT --write-out '%{http_code} %{redirect_url}')
     code=$(printf '%s' "$gocurl" | awk '{print $1}')
@@ -166,41 +169,45 @@ func_https_status(){
         else
             printf "[${green} %s ${resetColor}]\n" "$code"
         fi
-    elif [[ $code == "301" ]]; then
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/https_status_$code.txt"
+        rm -rf $tmp_file
+        exit;
+    elif [ $code == "301" ] || [ $code == "302" ]; then
         redirect_url=$(printf '%s' "$gocurl" | awk '{print $2}')
         if [ "$echo_type" == "bulk" ]; then
             if [[ $redirect_url == $BLACKLIST_REDIRECT ]];then
                 printf "[~%0${5}d~ ~%s~]~%-100s~[${red}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
             else
                 printf "[~%0${5}d~ ~%s~]~%-100s~[${green}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
-                echo "$host_target $redirect_url">>"result/https_status_${code}_redirect.txt"
             fi
         else
             if [[ $redirect_url == $BLACKLIST_REDIRECT ]];then
                 printf "[${red} %s ${resetColor}] $redirect_url\n" "$code"
             else
                 printf "[${green} %s ${resetColor}] $redirect_url\n" "$code"
-                echo "$host_target $redirect_url">>"result/https_status_${code}_redirect.txt"
             fi
         fi
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "($redirect_url)">>"result/https_status_$code.txt"
+        rm -rf $tmp_file
+        exit;
     elif [[ $code != "000" ]]; then
         if [ "$echo_type" == "bulk" ]; then
             printf "[~%0${5}d~ ~%s~]~%-100s~[${yellow}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
         else
             printf "[${yellow} %s ${resetColor}]\n" "$code"
         fi
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/https_status_$code.txt"
+        rm -rf $tmp_file
+        exit;
     else
         if [ "$echo_type" == "bulk" ]; then
             printf "[~%0${5}d~ ~%s~]~%-100s~[${red}%s${resetColor}]\r" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
         else
             printf "[${red} %s ${resetColor}]\n" "$code"
         fi
+        rm -rf $tmp_file
+        exit;
     fi
-
-
-
-
-    echo "$host_target">>"result/https_status_$code.txt"
 }
 func_proxy(){
     host_target=$1
@@ -228,7 +235,7 @@ func_proxy(){
         export PROXY_PORT="80"
     fi
     proxy_url="${PROXY_PREFIX}${PROXY_HOST}:${PROXY_PORT}"
-    tmp_file=$(mktemp)
+    tmp_file=$(mktemp -u tmp/Proxy_XXXXXXX)
     colorize_text
     gocurl=$(curl -o $tmp_file -s "$PROXY_TARGET" -k -H "user-agent: $DEFAULT_USER_AGENT" --connect-timeout $DEFAULT_CONNECT_TIMEOUT --max-time $DEFAULT_MAX_TIMEOUT -x $proxy_url --proxy-insecure --write-out '%{http_code} %{redirect_url}')
     code=$(printf '%s' "$gocurl" | awk '{print $1}')
@@ -239,9 +246,9 @@ func_proxy(){
         else
             printf "[${green} %s ${resetColor}]\n" "$code"
         fi
-        printf "%s\n%s\n" "---------------------------[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/proxy_${PROXY_PORT}_$code.txt"
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/proxy_${PROXY_PORT}_$code.txt"
         rm -rf $tmp_file
-        exit 1;
+        exit;
     elif [[ $code == "301" ]] || [[ $code == "302" ]]; then
         redirect_url=$(printf '%s' "$gocurl" | awk '{print $2}')
         if [ "$echo_type" == "bulk" ]; then
@@ -257,18 +264,18 @@ func_proxy(){
                 printf "[${green} %s ${resetColor}] $redirect_url\n" "$code"
             fi
         fi
-        printf "%s\n%s\n" "---------------------------[ $host_target ]---------------------------" "($redirect_url)">>"result/proxy_${PROXY_PORT}_$code.txt"
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "($redirect_url)">>"result/proxy_${PROXY_PORT}_$code.txt"
         rm -rf $tmp_file
-        exit 1;
+        exit;
     elif [[ $code != "000" ]]; then
         if [ "$echo_type" == "bulk" ]; then
             printf "[~%0${5}d~ ~%s~]~%-100s~[${yellow}%s${resetColor}]\n" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
         else
             printf "[${yellow} %s ${resetColor}]\n" "$code"
         fi
-        printf "%s\n%s\n" "---------------------------[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/proxy_${PROXY_PORT}_$code.txt"
+        printf "%s\n%s\n" "[ $host_target ]---------------------------" "$(cat $tmp_file | head -n 10)">>"result/proxy_${PROXY_PORT}_$code.txt"
         rm -rf $tmp_file
-        exit 1;
+        exit;
     else
         if [ "$echo_type" == "bulk" ]; then
             printf "[~%0${5}d~ ~%s~]~%-100s~[${red}%s${resetColor}]\r" "${3}" "${4}" "$host_target~" "~$code~" | tr ' ~' '- '
@@ -276,7 +283,7 @@ func_proxy(){
             printf "[${red} %s ${resetColor}]\n" "$code"
         fi
         rm -rf $tmp_file
-        exit 1;
+        exit;
     fi
 
     rm -rf $tmp_file
@@ -369,6 +376,7 @@ start() {
     helper_banner
     helper "$0 help                                                            Show this message"
     helper "$0 scan [help,sni_curl,sni_openssl,http_status,https_status,proxy] Scan List"
+    helper "$0 scanall [help,list]                                             Scan All List sni_curl,sni_openssl,http_status,https_status,proxy"
     helper "$0 generate [help,ip]                                              Generate list IP"
     helper "$0 update                                                          Update this script"
     echo 
@@ -670,6 +678,69 @@ start() {
         ;;
         * )
             start $1 base
+        ;;
+        esac
+    ;;
+
+    "scanall" )
+        case $2 in "help")
+            helper_banner
+            helper "$0 $1 help                                   Show this message"
+            helper "$0 $1 list                                   Using List"
+            echo
+        ;;
+        "list")
+            case $3 in "help")
+            helper_banner
+            helper "$0 $1 $2 help                         Show this message"
+            helper "$0 $1 $2 singgle [*domain]            Scan SNI singgle domain (Ex: $0 $1 sni_curl singgle domain.com)"
+            helper "$0 $1 $2 bulk [list_folder]           Scan SNI bulk list (Default folder : \"$PWD/list\")"
+            echo
+            ;;
+            "singgle" )
+                if [ ! -z "${4}" ]; then
+                    banner
+                    printf "%s" "Scanning singgle domain : $4 " 
+                    printf "%s" "$(func_sni_curl $4)"
+                    echo
+                else
+                    banner
+                    echo "Error, no domain, Ex : $0 $1 $2 $3 domain.com"
+                fi
+            ;;
+            "bulk" )
+                if [ ! -z "${4}" ]; then
+                    banner
+                    func_get_folder "$4" "func_sni_curl"
+                else
+                    banner
+                    func_get_folder "$PWD/list" "func_sni_curl"
+                fi
+            ;;
+            "base" )
+                start $1 $2 help
+            ;;
+            * )
+                start $1 $2 base
+            ;;
+            esac
+        ;;
+        "proxy" )
+            getparam "$@"
+            func_get_folder "$PWD/list" "func_proxy"
+        ;;
+        "base" )
+            # start $1 help
+            banner
+            func_get_folder "$PWD/list" "func_sni_curl"
+            # func_get_folder "$PWD/list" "func_sni_openssl"
+            func_get_folder "$PWD/list" "func_http_status"
+            func_get_folder "$PWD/list" "func_https_status"
+        ;;
+        * )
+            start $1 base
+            start $1 proxy --proxy_port=80 --proxy_prefix=http://
+            start $1 proxy --proxy_port=443 --proxy_prefix=https://
         ;;
         esac
     ;;

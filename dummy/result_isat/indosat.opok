@@ -1,0 +1,30 @@
+trixogo.tri.co.id
+https://store.appsclub.com
+http://indosat.appsclub.us/
+http://indosat.appsclub.us/
+http://apps.bemobi.com
+
+s-usc1a-nss-2042.firebaseio.com
+play.googleapis.com
+beacons2.gvt2.com
+security.browser.miui.com
+
+
+curl --connect-to connect.facebook.com:443:sanggoro5.nextvpn.cc:443 -x https://connect.facebook.com:443 --proxy-insecure  http://connect.facebook.com -vk 
+
+openssl s_client -servername connect.facebook.com -connect sanggoro5.nextvpn.cc:443 -no_check_time
+
+
+openssl s_client -servername connect.facebook.com -connect sanggoro5.nextvpn.cc:443 -no_check_time --proxy https://connect.facebook.com:443
+
+openssl s_client -servername connect.facebook.com -connect sanggoro5.nextvpn.cc:443 -no_check_time --proxy https://connect.facebook.com:443
+
+openssl s_client -servername connect.facebook.com -connect connect.facebook.com:443 -no_check_time --proxy https://connect.facebook.com:443
+
+-nbio_test -debug -trace -status -alpn val -allow_proxy_certs
+
+
+openssl s_client -servername connect.facebook.com -connect connect.facebook.com:443 -no_check_time -proxy https://connect.facebook.com:443
+
+openssl s_client -servername jakarta.covid19.go.id -connect sanggoro5.nextvpn.cc:443 -no_check_time -debug -status -nbio_test
+kzlgames.xl.co.id

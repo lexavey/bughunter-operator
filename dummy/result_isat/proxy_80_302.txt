@@ -1,0 +1,19 @@
+---------------------------[ atg5.co.id ]---------------------------
+(http://netsafe.indosatooredoo.com/desktop/?s=1&p=30)
+---------------------------[ autodiscover.ea50.co.id ]---------------------------
+(http://netsafe.indosatooredoo.com/desktop/?s=1&p=30)
+---------------------------[ cpanel.ea50.co.id ]---------------------------
+(http://netsafe.indosatooredoo.com/desktop/?s=1&p=30)
+---------------------------[ cpcalendars.ea50.co.id ]---------------------------
+(http://netsafe.indosatooredoo.com/desktop/?s=1&p=30)
+---------------------------[ cpcontacts.ea50.co.id ]---------------------------
+(http://netsafe.indosatooredoo.com/desktop/?s=1&p=30)
+---------------------------[ nos.ptpn11.co.id ]---------------------------
+---------------------------[ webdisk.ea50.co.id ]---------------------------
+(http://netsafe.indosatooredoo.com/desktop/?s=1&p=30)
+---------------------------[ 3health.tri.co.id ]---------------------------
+(http://3health.tri.co.id/message/DESKTOP_BROWSER_NOT_SUPPORTED)
+---------------------------[ trixogokids.tri.co.id ]---------------------------
+(http://trixogokids.tri.co.id/message/OMS_PLATFORM_NOT_SUPPORTED)
+---------------------------[ trixogo.tri.co.id ]---------------------------
+(http://trixogo.tri.co.id/message/OMS_PLATFORM_NOT_SUPPORTED)

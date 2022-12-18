@@ -1,0 +1,8 @@
+---------------------------[ 3health.tri.co.id ]---------------------------
+(http://3health.tri.co.id/message/DESKTOP_BROWSER_NOT_SUPPORTED)
+---------------------------[ 3shop.tri.co.id ]---------------------------
+(https://3shop.tri.co.id/message/OMS_PLATFORM_NOT_SUPPORTED)
+---------------------------[ trixogokids.tri.co.id ]---------------------------
+(https://trixogokids.tri.co.id/message/OMS_PLATFORM_NOT_SUPPORTED)
+---------------------------[ trixogo.tri.co.id ]---------------------------
+(https://trixogo.tri.co.id/message/OMS_PLATFORM_NOT_SUPPORTED)
