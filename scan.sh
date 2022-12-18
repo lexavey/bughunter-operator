@@ -31,10 +31,10 @@ colorize_text(){
 }
 updatescript() {
     # without this git merge fails on windows
-    # mv ./scripts/install-sdk.sh  './scripts/.#install-sdk-tmp.sh'
-    # rm -f ./scripts/.install-sdk-tmp.sh 
-    # cp './scripts/.#install-sdk-tmp.sh' ./scripts/install-sdk.sh
-    # git checkout -- ./scripts/install-sdk.sh
+    mv ./scan.sh  './.#scan.sh'
+    rm -f ./.scan.sh 
+    cp './.#scan.sh' ./scan.sh
+    git checkout -- ./scan.sh
     colorize_text
     git remote add bughunter-operator https://github.com/lexavey/bughunter-operator 2> /dev/null || true
     git fetch bughunter-operator
