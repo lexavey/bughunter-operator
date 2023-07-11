@@ -1,0 +1,120 @@
+[ 800817810.114.qq.com ]---------------------------
+(https://800817810.114.qq.com/)
+[ 800845200.114.qq.com ]---------------------------
+(https://800845200.114.qq.com/)
+[ 8008878500.114.qq.com ]---------------------------
+(https://8008878500.114.qq.com/)
+[ 8009888120.114.qq.com ]---------------------------
+(https://8009888120.114.qq.com/)
+[ activity.v.qq.com ]---------------------------
+(https://activity.v.qq.com/)
+[ ai.facebook.com ]---------------------------
+(https://ai.facebook.com/)
+[ api.wechat.com ]---------------------------
+(https://api.wechat.com/)
+[ blog-at.line.me ]---------------------------
+(https://blog-at.line.me/)
+[ calendar.linecorp.com ]---------------------------
+(https://calendar.linecorp.com/)
+[ cinyour.facebook.com ]---------------------------
+(https://cinyour.facebook.com/)
+[ cinyourrc.facebook.com ]---------------------------
+(https://cinyourrc.facebook.com/)
+[ conomi.line.me ]---------------------------
+(https://conomi.line.me/)
+[ contact.line.me ]---------------------------
+(https://contact-cc.line.me/)
+[ contact.linecorp.com ]---------------------------
+(https://contact.linecorp.com/)
+[ cs-cz.facebook.com ]---------------------------
+(https://cs-cz.facebook.com/)
+[ cs-cz.prod.facebook.com ]---------------------------
+(https://cs-cz.prod.facebook.com/)
+[ cs-ocr.clova.line.me ]---------------------------
+(https://cs-ocr.clova.line.me/)
+[ cs-cb.clova.line.me ]---------------------------
+(https://cs-cb.clova.line.me/)
+[ cx-ph.facebook.com ]---------------------------
+(https://cx-ph.facebook.com/)
+[ destiny-child-blog.line.me ]---------------------------
+(http://blog.destiny-child.jp/)
+[ dev-web.whatsapp.com ]---------------------------
+(https://dev-web.whatsapp.com/)
+[ devdocs.line.me ]---------------------------
+(https://devdocs.line.me/)
+[ development.facebook.com ]---------------------------
+(https://development.facebook.com/)
+[ edge-atlas-shv-01-nrt1.facebook.com ]---------------------------
+(https://edge-atlas-shv-01-nrt1.facebook.com/)
+[ edge-atlas-shv-01-sea1.facebook.com ]---------------------------
+(https://edge-atlas-shv-01-sea1.facebook.com/)
+[ edge-atlas-shv-01-vie1.facebook.com ]---------------------------
+(https://edge-atlas-shv-01-vie1.facebook.com/)
+[ edge-atlas-shv-01-yyz1.facebook.com ]---------------------------
+(https://edge-atlas-shv-01-yyz1.facebook.com/)
+[ edge-star-mini-shv-01-gmp1.facebook.com ]---------------------------
+(https://edge-star-mini-shv-01-gmp1.facebook.com/)
+[ edge-star-mini-shv-01-cdt1.facebook.com ]---------------------------
+(https://edge-star-mini-shv-01-cdt1.facebook.com/)
+[ edge-star-mini-shv-01-dus1.facebook.com ]---------------------------
+(https://edge-star-mini-shv-01-dus1.facebook.com/)
+[ edge-star-mini-shv-01-eze1.facebook.com ]---------------------------
+(https://edge-star-mini-shv-01-eze1.facebook.com/)
+[ edge-video-shv-01-sea1.fbcdn.net ]---------------------------
+(https://edge-video-shv-01-sea1.fbcdn.net/)
+[ edge-video-shv-01-sin6.fbcdn.net ]---------------------------
+(https://edge-video-shv-01-sin6.fbcdn.net/)
+[ edge-video-shv-01-sjc3.fbcdn.net ]---------------------------
+(https://edge-video-shv-01-sjc3.fbcdn.net/)
+[ edge-video-shv-01-sof1.fbcdn.net ]---------------------------
+(https://edge-video-shv-01-sof1.fbcdn.net/)
+[ edge-video-shv-01-tpe1.fbcdn.net ]---------------------------
+(https://edge-video-shv-01-tpe1.fbcdn.net/)
+[ edge-video-shv-01-ssn1.fbcdn.net ]---------------------------
+(https://edge-video-shv-01-ssn1.fbcdn.net/)
+[ edge-video-shv-01-syd2.fbcdn.net ]---------------------------
+(https://edge-video-shv-01-syd2.fbcdn.net/)
+[ en-gb.beta.facebook.com ]---------------------------
+(https://en-gb.beta.facebook.com/)
+[ en-gb.facebook.com ]---------------------------
+(https://en-gb.facebook.com/)
+[ en-gb.prod.facebook.com ]---------------------------
+[ en-gb.latest.instagram.com ]---------------------------
+(https://en-gb.prod.facebook.com/)
+(https://en-gb.latest.instagram.com/)
+[ en-pi.facebook.com ]---------------------------
+(https://en-pi.facebook.com/)
+[ entry.line.me ]---------------------------
+(https://entry.line.me/)
+[ eu-es.dns.facebook.com ]---------------------------
+(https://eu-es.dns.facebook.com/)
+[ eu-es.facebook.com ]---------------------------
+(https://eu-es.facebook.com/)
+[ event-web.line.me ]---------------------------
+(https://event-web.line.me/)
+[ extern.facebook.com ]---------------------------
+(https://extern.facebook.com/)
+[ external-tpe1-1.xx.fbcdn.net ]---------------------------
+(https://external-tpe1-1.xx.fbcdn.net/)
+[ fr-fr.fbjs.facebook.com ]---------------------------
+(https://fr-fr.fbjs.facebook.com/)
+[ fr-fr.facebook.com ]---------------------------
+(https://fr-fr.facebook.com/)
+[ fr-fr.prod.facebook.com ]---------------------------
+(https://fr-fr.prod.facebook.com/)
+[ gift.line.me ]---------------------------
+(https://gift.line.me/)
+[ hi-in.facebook.com ]---------------------------
+(https://hi-in.facebook.com/)
+[ hr-hr.facebook.com ]---------------------------
+[ hr-blog.line.me ]---------------------------
+(https://hr-hr.facebook.com/)
+(https://line.me/)
+[ hr-hr.prod.facebook.com ]---------------------------
+(https://hr-hr.prod.facebook.com/)
+[ intern-managed-client-shv-01-sea1.facebook.com ]---------------------------
+(https://intern-managed-client-shv-01-sea1.facebook.com/)
+[ internmc.facebook.com ]---------------------------
+(https://internmc.facebook.com/)
+[ kk-kz.facebook.com ]---------------------------
+(https://kk-kz.facebook.com/)
