@@ -1,5 +1,6 @@
+.*
+!/.gitignore
 tmp
-.#scan.sh
 list
 list.1
 list.2
