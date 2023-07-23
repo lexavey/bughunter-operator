@@ -1,0 +1,39 @@
+[ healthcare-cms.line.me ]---------------------------
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+X-Line-Load-Balancer-Error: Yes
+
+[ grab-hitch.grabtaxi.com ]---------------------------
+HTTP/1.1 503 Service Unavailable: Back-end server is at capacity
+Content-Length: 0
+Connection: keep-alive
+
+[ growthy-staging-growthywebcollector-80.line-apps.com ]---------------------------
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+[ growthy-sandbox-growthywebcollector-80.line-apps.com ]---------------------------
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+[ healthcare-cms.line.me ]---------------------------
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+X-Line-Load-Balancer-Error: Yes
+
+[ homepage-dududev.ovo.id ]---------------------------
+HTTP/1.1 503 Service Temporarily Unavailable
+Server: awselb/2.0
+Date: Fri, 21 Jul 2023 19:19:03 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+

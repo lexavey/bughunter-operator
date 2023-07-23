@@ -1,0 +1,28 @@
+[ agecheck.line.me ]---------------------------
+(https://line.me/)
+[ callback.line.me ]---------------------------
+(https://line.me/)
+[ charmmy.line.me ]---------------------------
+(https://melbi2.nextvpn.cc/)
+[ contact-cc.line.me ]---------------------------
+(https://contact-cc.line.me/)
+[ contact.line.me ]---------------------------
+(https://contact-cc.line.me/)
+[ event-pay.line.me ]---------------------------
+(https://scdn.line-apps.com/linepay/web/html/error_page.html)
+[ lan-click.tr.line.me ]---------------------------
+(https://melbi2.nextvpn.cc/)
+[ lap-click.tr.line.me ]---------------------------
+(https://melbi2.nextvpn.cc/)
+[ lg-cs.line.me ]---------------------------
+(https://lg-cs.line.me/)
+[ lgurl.line.me ]---------------------------
+(http://line.me/games)
+[ lt-click.tr.line.me ]---------------------------
+(https://melbi2.nextvpn.cc/)
+[ notify-api.line.me ]---------------------------
+(https://melbi2.nextvpn.cc/)
+[ notify-bot.line.me ]---------------------------
+(https://melbi2.nextvpn.cc/)
+[ lgurl.line.me ]---------------------------
+(http://line.me/games)

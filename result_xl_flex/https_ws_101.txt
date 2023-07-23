@@ -1,0 +1,971 @@
+[ mail.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:23:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8jprba1fcJxfuRCJoARqARm8ZrhB6Swd6AjGKk0gYNuWrx42g1cZMqofIQ7vNa3S3oAW0dZ6EmTbQoQvi5tFf97To%2B%2FYjQpOeLCYcAQCV5WIIDk%2BBgNQx0SJiTPwY4867sBg3Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e965decdbff44a0-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ services.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:23:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=1ShfkNAJje0jX76J9l%2Bo6u2AZyiGooHF9sxUMbFnq4%2B42vt9ZC28pD7R76EwXjhwTZHktNnYJR%2B5NBntdtg0ozWMpXf8saeDKx%2BPAUQONH6r4LCYTQYVWGqyhIDNgNYk1zxNcw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e965ded0ee68807-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ app.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:23:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Cy4k10%2BadHTMAqvzN0cUh56nBDWBXWkwfP6mfCtdzqr7fKNT0HbO6Iwa32JpMDyaTpbQ0pwreaiLydC7kS23S%2FAV0Uq5ew0%2F22Yg0Vwve9r3rbiN9aUAkQ8eR89eAgJTOESGuw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e965decec5e9f89-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ www.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:23:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zu%2BOXehzmn1pRkQUCagrttitC2coTZnasMaHVFh99TUmq%2BVNs7PvcTQO99vJH%2BwgVkqduJLz5z0mXelp1agE12RFJSsJyHII0sY1sBLl%2FPeqIHFbLSFV6Ip1WTXtVxmgN6juAQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e965ded4a713fd7-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ support.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:23:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ff1x58zqvqlp9wh2H5xzKCvWYqXBc1LQmiYQbGXs6VGAQwtMUDGEg3F6jPHzxMkmWqmEyBFQEYOoiVaQNf4ThhlXMUBVeEGJvFSmD6%2BZ0LLmjJ9d7OlG4X3eFvgWw6aZhZDACQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e965ded983d9e20-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ static.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:23:10 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6VoxLwGvb%2BKIvZnlh4Y4TLHKeDCsf9AGzrk8X0NMyjILKxKd9fVF49FZVTcQ6c7mmlCpFw13tmBJAiAQFkv6pohuzRAf8FMXIb8n2OBvmllizaYYI9WRHrO4pyNvmk%2BkNHUp2A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e965e0d1bd73da7-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ ciao.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:31:56 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CkD91tR0l3n0fSINJaqiFUsQMJpjx6Zys5nLMf2P0uJreb0gCVR00Jy9rR5FTYMOtaZ3cLRgxI%2BWK03ZVZD5M6s%2BU304JOAzRuhqVCO5FrA3w2yeNbLvoLQMWPRMybsvbeJ%2BuA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966ae38c3844c7-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ cdn.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:31:56 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2jLBWepLAamhfFcCH9EKYD8ScnEg4oH94AhQ5%2Fm1EeLFoKc2kX38z9thWsYXR2T2D5PA7lyoZPk0k8mm0jY1hV6%2F8gHecuzU3QCk33QY%2BtUBILEkT6sJmjonIIqvtiIeAMiX4A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966ae3a9ec9f92-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ courses.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:31:57 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ofN1lqBbjVmVw9O7uZYN2N3xy0fvu3gU8LyulwV858DIzubV0TWPtjxsLSLOisi%2F7MqDbwbEuRGDwGxtWE0QIFu8gCb4mR%2Fbb2SAuYHnGxMSBdTq0XoGS6KT5dEmRfLehFOONg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966ae64aee87a8-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ mail.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:31:58 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=J9BHLEFaOGuhWf89Lf30Ktpmd6R6EBNwqR%2BUlvLEu9EXNW34Gk6wHVY0fPdEXnsv8hQRnVOhTplXQnPAtJ%2FiHu7EZf8QLPKig7wf%2FgdMo8GPTvNSw5rUPa6c1KrTJNi2UFcZSQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966aee3d026be7-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ pop.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:31:59 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CRK3kvuvxWrefmd0R%2FemRQ31gwRZSsuQ%2FLaRt9ZjQANipcvgoLcJOoqrEbQSz%2BVT%2BKen2VlCXpSeZR0%2BpHd6WHno%2F0K2olabnOXfPQHOKP75dy24OFmsLinBFwyHZXroKnmdtA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966af2bdaa40e2-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ pdf.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:31:59 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Kj4RnzCnZTZ08hruJuhUgaBNqd54UTNSZc0j11zmum9qpOY9XTTgPYZeM4rljakndSc2mRqTYql1e9LYViR%2Fc9se2upPbx1ntYuXnaE54iXp9EYk37QFrDdjo6zDtmGlDp3ygA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966af2e8934067-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ smtp.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:32:00 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=6oYcld7%2BQmXNpCf%2BNKvPy%2F%2B3XI%2FZ4xtapQuDjWFFNpQ5j%2BvE6xWmh42eZ%2Ftp7aKTeWxio%2BaN51JgI6ni%2Fh%2FdFgWKDCcRDuLKtK5XysbAS0ldKq27jRamW5H36fu2PnqBh%2F8Rjw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966af89d113d7b-SIN
+alt-svc: h3=":443"; ma=86400
+
+[ zossa-dcwlbzjfnjec5p4-crm.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:32:59 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QZwDUxA7wAneIcVdYdy9ogZHgmDaVbJfQyD3E%2Fqhgoq6MNvv4tT4bB2rkTR1c9K6X5Y9Ka7NgTNxAN9y8rN4z3ZauOeEJuYOiWeby0ExJ8U4dQsot%2FlG8k7ocVftfJTMQON15A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e966c6c6c6089aa-SIN
+alt-svc: h3=":443"; ma=86400
+[ cdn.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:57:59 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VJtWnyYPWCjVmZgU0dyMKtpNYAMLCQrqiJTZHa6FjnanMGLAOS3EzMN12lFzsVpZ9D1j2INn1rJ9dRkP%2FSZO7RE0lVvzfxfGHeLB7jMRwBXcR6JNl0kr2tmT9nzvt1rdYU2Dhw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96910b1c3e6bb2-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ ciao.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:57:59 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FdOYU%2FuSGhfxzNAcKCrkdGfhVVPkSzwBl%2F8pcJkmB6byvhcTq4NHISUXel%2BrxqP%2FtzlXCoQmoabzgQyKmoMVdRPQpygVREGVtCER65iVOhK0xRaE2gbzb%2BRNhTEkdS%2F1yztdhA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96910d3bf94104-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ courses.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:00 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=CHPQretnh4n3pakaxQ5ybSbfWGM7joWiairBWptNayROeSXDlz%2BsnCvi9%2F70862Ngv6%2BJ4hu%2BVvpRc9eWyKMtXiME2V8xG1Rw97oljU%2FR2kLZHGGJMvC%2FB3BDnHl6%2F5VkGPxdg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96910f9ed09fc8-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ mail.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:01 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=J%2F6lZBrOYH6Ad89R8DGvtmS8%2BherQgboJIaEh2cQIF1P%2BIOGWGRA9RLh01eX4KwQ7okgjM6HyWsYoPuZgsUAicjWTycJz32rEtS4JXU2PgbAABVaLHQ3TiGfFVCsZGJTpgAgOQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969116eb5740d1-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ pop.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:02 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ibzaeAfmw3tjmJCrHdQGRsXR6UhET9qK9QiVPSWf2ovnAgtTIBbg9q%2FGqZL%2B1h5p3bViQZGJnO2G3ItBrSBLHVSBZZbtVPEufCDwAVrNpHaW4jdeECjEJrRvudWJKs3ROEiBHQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96911d2809880d-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ pdf.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:02 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=OMSYx4kUIV3%2BM0pjnL5rnH4BwVkeNhcMRwekfQPUJbsJ3Wkm1LtWX55XfXc67UyWtFhOquTaG4N6x481AJAh%2FxQ5fceldwUBbFFYw3zysg18OJXoWoRRbMZvLRgDjRsWvOhoEQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96911f78599fc8-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ smtp.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:03 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lAK3FMTSld4AaZG7ExE8bDn2z3CztmlFmq4YnSW%2Byl8ftqetsyZGLwuHckcWSi5bC3CXetPwDfiXC6XtKYIdoGmXWsRtF7mdqZLXww3vHbkWLhjFJTw9I5V6JM0czWk%2B7I5wbg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691211f7a4dce-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ vouchers.fastworldpay.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:19 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SU54cUxT0KJN%2BgP8j%2FA4FfsWWT2%2Bzo%2Bq8tQXbu7sz75lmKfOo4uCfkPz7w9%2B0HK7gs6sdp1ydOnH2qxBgnNFE7EOYfqZ0hMlURWScrhUVifDIysrTE%2B9i7p0HtqtugPlDP%2FD4w%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969189694f3f5d-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ vouchers-staging.fastworldpay.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:19 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rcVOCJdv9LgKBmQsuhlhKyptSW%2BLVHsMKlOXN%2B4gZrAv7axZDJroccJpOtLfCpC4RIoYE17hCu7PQinb7yO1a7UWdHjI5Y54s3f7o4FIzhSNUwyIAthKVOmOaFwjNKgSKVx5MA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96918968b93dbd-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ www.fastworldpay.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:19 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=669KeaEeE8k51DkZbIRkPJnI%2B0ozEMyFQoWk24q4l1%2B0QTwM4lWrrKDPL8XSkGUnwwmt87AC%2FW2joy7kwDDsny2CLy1tdwXvdGVM4NpDBBXbGpwJLuj%2BY%2Fik7pChB%2FkyV%2BjNyw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691896f743fc9-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ mail.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:31 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=mdT9Mqc4njM8VF38rqJqtN3pK51D%2BS4i2GNwrv69hkoe1y8%2FETeJ42V5wC4ZGxeJpi7V%2F6iyE9I%2Fx8zW%2BmL1UG8JX1CLPDadvIn8SiDfuD6lN8wIutCJmDLlGfbNjS02OvEIGQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691d23a963e48-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ app.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:31 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4yM4vUR0na3bySgNrFF53jtYNJs%2BYhUpjImtzaXG1CwWTrZSg8OJG4nlLQJHwhD5HcS6y2X5JWFaE5FW0JQdS78dRYxRBiiiNSzqqB70NMikmgiDy27pQwuCCRQ3Xtt%2F%2FU8kBQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691d2492a3df5-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ services.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:31 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=oPORVCMfRTCTkAZxPP68LXfzd%2BcCxrKB1STDvM4fksKsmUBlWjgc3lCrEEp2lOVDx8WSi0wr9MRNYtPQY6XlxP8EsoAvM9coBHR0bRIP3Eebu%2FfnEJ1ug24dltDrUhneUgKPwA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691d2cffe3e5c-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ support.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:31 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=iQliAw%2F5cjkf6UAmu3B2oW5hyPIs598Q2Z0p680CmJch4cK9xN9r58HIL3gZTAidFbkbEpUoDR7nyTz6bcwPFNxo%2B%2BqP120tubtlE76l4n7P5J2Mx5F37kYh6zuMtdTrszKcZA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691d32eab9f83-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ www.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:31 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4SM4Om1ArcVEanXK2iWQiAB15qEjZ0fFHzWMyDmZ2JBsfKvbuaIWw%2BF1C%2F4N9wbU%2BUCYzhNn%2FPRDHpCiBV%2BA8UxVCJcm1gZ0QRLDGZwQL%2BHNlaQQzFlSnEz%2BXh5nasbrLhEJ4g%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691d2e91c40a1-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ static.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:58:36 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FAAxB2ouGfGh9bX7mf04ZKtRJN09opjs4aUxJ5xqewp6Izuo5hsPlXoRgJqv1Gvh3BTfwYfTNvhYKujjetAFmHfV84iq7wLwBUhl1ony3e11LFzQPVf7mGv%2BP3eAFabF1mz7Wg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9691f3a9e340e9-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ admin-apps.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:03 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jpgng1ks2gEqpxquVzbPWGeO%2BxWdufnQvF2B8FkSuV%2BD3IRym40VjlsaMc5ZzRuc5mObyJ1YKW9uhV5MYRVqhApjvev5lGsVkOzuUuIwHpB%2FcrteLCI%2F0dCOqzsCgM8mS%2BMhlg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96929c5a654655-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ apps.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:04 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=s4kulfbvsr7h4SEVZa4D1%2BG1ZJ0glUxQEbw2GWVhrpFSJxVaEXjDYhZsLPIPX%2BY3HdaMQF3SQ0HAw5HAfNaOdxyF2LIuRlsEsNgeTfeV8%2FX%2BvvKyrvN0774Bl96TvJpkYEAjgg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96929de9684086-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ api3.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:04 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pIJjXgHM0ME3rXndNnW%2FiknCWUPYG1Dpyswk4jwrTPLSxOaI20GVI0NBLKs571iyPOMS2STtYNNCQ%2B7bRdzreSZ2bM5tjRxbP5tZr%2BxiEOn8AV9hGHEI7rc7zjEnLO5TgI8osw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96929dbeb29fa9-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ api.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:04 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UMEQGxqHR%2FvQWTdmWULLpITk1nF8wRCNDEVAccDwvWcnof4m6%2BysFJjFB0cj6Kg%2B4NarvWjGN%2FPrDs50LbkkSXZyv0eBwHV%2FSkMz7BEWZnahcQ0zhIJbtMjymrpxtgPQn80TQw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96929f2d5144b4-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ dashboard.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:04 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=nKY%2B2OKrktbH0OxSuh1Mad6%2FaLsat77YzioaeCkvatQ4Xwz71b5U9XDKLrn2gCTtIqJTjbMBq1OyOvszt0y%2Fgm6yVLa%2FXOfklcT6brKHbGkRjQMdCTQEeGLZyakGWBlDFsZnBw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692a1accc0197-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ csat.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:04 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=91CioYcowtFectKsGYgBBY6I22T5vntiHgK4w%2FxWRr5qBciktMwa1jxqwLYFcrI9971hikL9fzsKbnD102%2FnLlutT%2BEH09EXxLvcHOqHrLcyT%2BURMuIQdczFQg06puFy5suxNA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692a21c9c89bf-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ duniagames-roomchat.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:04 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=PoMx6zt6jHXRoUK4KouK0LOF0pptD0cklVI7AxLhn2xNGqk4Zc0YQjIqfpPELrQ95k%2FuJ1SBULd%2BRUclBXytGAFr7BhPU6DJQbk7YIrUUBonw1LLATBOcYQ4CJKbMUp8TFKVzA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692a33b499f71-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ evermos-analytics-api.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QhzGaDbtTkjCdsWqI4O6vWRdivVo5Dsm7wukGwepaFFMbZsuXs%2FQ%2BkoptpHxcAoOXdDnsYapt2CfxXvSSKyns4qkO4D8PuBtDF1RcugkSRlnasTaJqNppdKMs%2F8uPsD%2FWTAhtA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692a468f06bca-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ hartono-routing.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0YUS%2FeUgTSB83xYB%2BcxOGhJoEqDioPABvi%2FaQGmXIYRU14AuHUwfjvuYZdbma8ywT3mCAccxtkwht7WBrBtdLUh5CXTV1lU%2BNwGGCOOFRWtnvyA01gHuiVMIpKTiZ0MjmhTwVQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692a59d9387c9-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ iwdwi-9ncrjergbf70h42-crm.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=H0qlEP23ZwzZ5z%2BRhBBGvt19sdS2mJfJLuce7UyGQgYI9hJWcxXJNRSd4FPXZRLVm%2B8lI7fNF4GnsCs91eFu6CSgiVWpdE16IapPOICxXAqOnkJA52HMo1PkArTKNoLszUhnFw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692a71d473f63-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ latest-multichannel.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:05 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Xo63U2jDfh3cdt7xqBMkwqcDpUeIZM4M3Xw4Qm0ofWE%2F5Ii%2FAZW70bOmoRFKFgPViyfIRTSgOzvDYc4GSnbe7%2FIrlOTtA5Ipz0KDq0UHXN3uvonzm8Op0KFbCBMVT2mvi2VYng%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692a9d97f4c23-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ multichannel.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=SZnC4aFLdKkLQyTqK26lJPmB271Z%2BJiicYfocaaN9IIpmOzl2Dvso7FjEiTLH5RicqtkkhTNDtpUTFQctO4nsaOXS8TdMlbzLK1AwFtzk6yagImERhiBIj0pWthS1SMuCw4K8Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692ac4b4b3fcc-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ pulsapro-bot.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4ZitPCtk0tnGR8T1gCVZrZAa2AqAkOOkCQNntKuPDG61KenR0NIu79nkffSIXla6vDH7yuD%2FAentJZrFocBdMsu7JbIkHtsZZGQZvHfwK%2B97LlUqqSnBH6J1oDHtfITSgnDUiA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692afaa263ff6-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ paragon-routing.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VYr5vL9tzNm5FMFEnbg0SEw7MHLLeBi3KGluy2kY%2FdyKYY7cex2%2BKxS57jVBD35c07T8cltjBwqcxU6Wm%2BLwaeOSd%2BqM2DvwGoiJ70ijadwjJaXHL4EMduMJkoeiaoCcnZDdcQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692afad8289b8-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ realtime-lb-smrg.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=EbsWpd0NTSSqOkCW9n3ecJCi%2FPdTK812ULUJV0y%2BV%2FZw757uPISLuKUxL7PMqPwTMbFQwrS9cgMSaJf1o3joQFn%2FfttjKll5KOGi6i16iTDu6OzhlkR8GOun5Rs1ZMNRPM%2FsiQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b05ff66bbd-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ realtime-lb-bali.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kxfP%2BP4lbinIstKiOMyQjZkL%2FqmdtuR0FcGY756orXzZfFvAIa7iqLe9%2FL7yPevmjMDrmu3OIhtVFQUFaviAUGMjxDEZEFdAjDvi3tiSVbCX5DwwqKIGPDYchVnwdI1YI5TGtA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b179016bbe-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ realtime-lb.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=0ANorlrGmmzHQoNnaSUf7pnOI1ACxbgdZUxadrekttjZPo7dG97Rq7FsIermGSCc10dOMNkBIjFD%2F%2BrcUfuA%2F8rxsU%2BzJaDPW27l73QUhrgfJkNOZeHgdfoUYneo%2FRJSTaAyZw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b17e5540ba-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ torom-t8vetdg3w7hpft6-crm.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=yvFkzdCOKGhPy5KpB9wnunE%2FlTo4ZL03AFmJhnXmXsu3uKd0KKVOCb86dZkMHqgGDcn2uSg3lG3i1MyzPWQhCK2iVSQq00oVP6cEwbcezIWisvzTFv2fOtj95MV7Wpj6Cc8%2Frw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b36afa44b2-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ realtime-lb-bdg.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=XPQcZmFetJtAzOLp2rOK%2BtvGwmcOptWap1N%2F6OgNYRZljjDo3H9ozCCxXcLfecXneFepua2WB%2FKh7mATRh3a2b3dFMa1S8PxW4wRD3q1hmvSCRjTJtcs%2Bb8dWwEsYouJyLzV7g%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b34b7e40a8-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ safari-webrtc.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TWBjlgTP7rUSuvAdLGIETtR1lo72g64YNTtOQFJmB%2BU9HDnszlGzFq6cWEiAzAN8v2DmsLWsNQbHNjru7oo0Go2OvhTGpqi4tBFNK5vxLLICcuV%2FHoly%2BWBmd%2F1zF7EmR2%2BnDA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b3e9e56bd9-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ status.qiscus.com ]---------------------------
+[ rmcuw-cspcezh1pasv3fp-crm.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QGqNodBEp%2BnDq2FM5e%2FMA%2FHRe1R8h7qL1h1ROvGQ2E4Levw8Ql%2Bhny9Z1uawZUwLd6rpc9Iy1fECDPM1ZXUY9ZL5RhpvYuTnoXgoiUXQymOgOnCcEHo7V%2BCBtNKYl%2F%2BsZ%2FcHlw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b3c9c63e05-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+HTTP/1.1 101 Switching Protocols
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QsPfuFyuQtaj98ayjACfUIQbRmo%2FfpI%2B6Qi7Uu9%2BA5G45RwPMZDXvJ8%2F7DeTsKs%2FjUq6BvdoFIpwwn%2FISsWovhdzNkCM4E05TVsj%2BSsQ4PLPkIALJ6MXmsmjZlLER3%2BK86RBVg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b4980487ed-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ realtime.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aTOgGAttJwBGDrZ9cJeV6fdfywG4OB01iRsnNY5fNTn0YABsV1v7NPqk%2B3bVgYRB%2B2eHZramIsFyHL%2BMxzBHesq3r2YZnq9QtAF25Q6BSRW%2B1s6IxINpN8OgI2ie5f%2FePT2u9g%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b3cbce9f7d-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ ruang-guru.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NdOub5Qu%2BPpSIZiQsHnolrtMnZNAX%2FA%2FDMBbf1SNyMUYYLNMvX5iCSF4LE7CU9BhVS8JmWJwMit9DuzDd0X8ZkmKGwupfl730HLavP4BkoSW8Kk%2BGZKT0IMhYNSpYEY8pfawPw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b48b414095-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ www.qiscus.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vJ6qt4ZgHDgJbC%2FWet5PTHKgH3XuobjxecRdV9JSccOI9DA4c31ffqxKpUr%2B4dPDjFA%2BoIlAKUvveYJElRHtu%2FKRPVt8PFdxiRwbsk%2B4isBZldHAt%2F0nul%2BrT9fQn2HxV7vnZQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+[ zossa-dcwlbzjfnjec5p4-crm.qiscus.com ]---------------------------
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+HTTP/1.1 101 Switching Protocols
+CF-RAY: 7e9692b4ee303fe5-SIN
+Date: Wed, 19 Jul 2023 22:59:07 GMT
+alt-svc: h3=":443"; ma=86400
+Connection: upgrade
+
+CF-Cache-Status: DYNAMIC
+
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4y8QGyaxp1fgCdIxZMqvSPoi8U6lB6nBuFVg9a50E1Ljby6yAg9ANecFDq9pueFixl3wkyYrBFX9jBo6NsdyA73AvhlEDLZhVcMCE4aHQqZEV2gc%2BoTGIJwc9bdRaaSbUqJgtA%3D%3D"}],"group":"cf-nel","max_age":604800}
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9692b53e5c409e-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ app.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:24 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=vK4mcmlwSjmQ2p9qhLbAhMiN5yJbF58oJpnh2mgGP9eURqkOpGqsVdiIv%2BZx2e7RCPZVw13edQBV6SYPn5AeLubR42ICF5jdNX%2B%2Bm%2Belqw2%2FsPRLQ4yqa3rI5EWq1ZgYDA4KCw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96931ad9e244c0-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ mail.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:24 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=j7g8eL3NvIOtrw8Fh3%2B7Jlcv4MEyuQK4dMZFI6%2Bqsmz2QyzDPNnGJx2rZEDVaxAJQakNuHijtLr4mFq%2BQ6QlNPFiBIzENXBkHTU6FxvMn6q9s8HYtL%2FMLieuaiSAmzpVs9rDgA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96931b1d504038-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ services.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:24 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7XKkoffr2rGV%2B4ZVSCjCeMMvHwiBd4%2Byx7SDoEG%2BkdqZRdpwtZBzw2h4qV3P7cgrlwzTw%2F9mr1SpH7ROER26587Y4ZzHxo0QAtv26l02XY5o3aoXsP3IKRqEHD3%2BX5z0CmiRog%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96931b8f843fa5-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ static.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:24 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ha1DKfdY%2B%2F7pVP1BojXM56tXg9hHFNMVC6tP10vqexpm86AcVMwnvSzjTGMz8WerhibzNmI%2BK0YNpIbQgNfHAlh1DbTNr%2FW4d5qV0z316LP%2FJ2bJmKXN3AJtDIy0ueT5S%2BvKRA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96931b99cd3da4-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ support.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:24 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=IsR7I5ABKp%2FWWTpsEFVOIv%2BabRUw%2Ft20qg002NDNANM5htWes83Gi9nJsCR2suFLuWX4sVGGx5%2BB1ZYaTKXx3EvjurMHZHJXTK12RVKf0%2FKF0Ys3ECDkNVYfTIy%2FZMtccFlGHg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96931bef639fd4-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ www.onlymega.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:24 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FOGt0zTQou6MRBIvCbSZt8j7PFGMxFmxxj%2BRSnXFWyaIkLWgakOCy5mYPl9Ugm364ReAGeoRUz%2FpWRrEKQJjxeeivhBrGWZ1O3asrAoGifq%2F1zl7nFFRMy%2BfEa4fFvmdnD7qNw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96931bee973e48-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ vouchers.fastworldpay.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:36 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Jb4pN%2Fks3j5%2FW%2FM%2FyUi4gPV0k7nARWlKWX0FELN7jo9YYShF7vtBxHcqfqFnHGYVTVh77tWfDL%2BOFb%2FgyoqpjvLaZqeuRzMDdOKVygEG6Hy7ZrGcLPg7CnNDX3OhIeFmMn0Wkw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969366ea9a3dee-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ vouchers-staging.fastworldpay.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:36 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ftwWbx9skGOQcEJHcpLpx3S8Z2OXSLYuAOoWhJTxAJG6PnxPQjcAIVF9bqHfFb%2Bcbcao2xwyMjL77UoygfJ0qjckrNfDteMHugXtT%2FqyfE9%2F9KAMnMniRKUnjEP9G%2BCwiGcDbA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9693679ef24035-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ www.fastworldpay.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 22:59:36 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2Fy%2BlhskZveavYGsQhULLhAeeHpxV0leIe9fFGfbH7dTPU7lH06tIpG2%2BE6YlcuOEq4dvaQwPPcfgXI8v9RfhXdTEl%2BGRJuezIxLB%2BGXPn5E%2Bo0I8syk%2FeE7DRY5GtjKe1WAebA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969367af7d9fd1-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ 104.26.5.10 ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=KM6TYFKU7F7xvsGTOEVLFHL6C%2B9jw5r0yvwyb3weHnxrnR5aAOuuPQArdHDtR47zF18avzSD7sSk1Vsdt%2Bjgx82kFh0uxnXhNXhEzygyeLEdUWJuc%2FJqBqfObdYRM1xB12k%2FDQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969423d95b407a-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ 172.67.73.39 ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ExzLi0TrO80k5lQQWJRWyevaZJebd7SvkuAAgbNQTg4X%2Fyd%2FYOJjqg1bKtVgyM%2BTyJPEK9idGOjSIlKqCq6y4jZmZ9oyycYWr4Xe5E3EGZ7DLsMA1D1bbsjIAJBQovllapc%2Fyg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969423af4c87f5-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ cdn.megacalzado.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ClY9oZVfz2XFm%2FphHYDT2m%2Fvo%2BrnX9TfPofaqPBkvr8sCaKKkQJ6UnNbUedrh2xx5cE%2FT4ie6vS8VrUukzQYZLLdf3%2FJOvRZ8LG9N8b6lnivs7%2FnSCnyCrtO%2BjYGs%2BkwTCr36A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e96942439b53dea-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ cdn.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=V8PKOjV4LAwTDbztrixWyHXWINQfI7mHh%2F8D5%2FAZBfGQuKnwpds2qg5tiToYPraPb7v2T4EVa%2BWRmhrEfiOBYS%2F%2BpXvxJqyK%2BP04Wy7%2F%2Fl1SmetwuL%2BJjqX5yfIPaYtPz2k%2BfA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9694248d654b6e-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ ciao.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=aqoFuIFLvS9Z66766CSlxkIsGACNWC9GsXETW7zEX6%2BHf1dBjxn9BJd6FNij02KRZDsYvSdayjTKVul2zFN1yBbFtgYctZdHy4Y6kNE0fBOrj%2BhUJRthxRfDr%2BdRaxdLme%2BDdQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9694247f0a3fcf-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ mail.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fuOAjndXTgEGhEboiAMQBI0R0%2FH%2Fp2bRtuJjfWugWDH0fwNB0he5BAq1E%2FaYKHNpocNn34UOhPL3fM4AOV9qZ5lsEv0KUAFci6XooGl6baIMO0MzR87h%2BfWH3YLLM%2BhU%2FszXpQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969425ecee4923-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ courses.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pzslVJGwGZP3L95Zdjnfe4Z97G86XtqfjYSklWphkKUdjayEa0p80WEWcPhYH8Kr0jXFBHaxzwebwCs2z3Uci%2B3wmshxQXLp28cq8EEeqc1Kik4wVpt4EwOKrwPcCLKs%2BV5hTA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969424babc4a17-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ pop.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:06 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=7EG0dh%2B8pH3TCtq4UESKEle1OVuY14NE8sVl%2BAO%2B8INVfKXrNBachxefS8gztpPiY9VOvQ8TOAuCwIIaDrR%2F%2FmjUiRcCjlWwZ%2FloRxTCs%2Fy2Wh%2BzYdsRqyRr2zMcwHh%2BiqAt7Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9694270fa540e9-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ smtp.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=fFFBcfLdZPGFeBwnDRwLJR9rDIOzDjsVdCFeQ9VzLKaeSC2Dg1V9c9vSEhEN0QZ0hogG%2FD6RvGsOHAh20mXM%2B%2FQBMx8OUpwjcTscOxzU5JYC6omgiEcQDjTL0zGzPB%2FrUH6ASg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9694270e6f4912-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ pdf.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VNlvVPRhf5y%2FoAYA00imxK%2Bze3XE%2BpEdPtpH7H8BzOjaorkkJhGfiP1qMpuoL8PPmgCfwnzP4vpyKSkCQEVdle6WF1EeVj2Fvfle8trlCN6tJ7vSVC7oZK9yEdV9m%2Bny6VmUQQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e9694280ce440ba-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ www.megacalzado.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:07 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=hXRBhqtf6IiDZ0qEk71Quv030bRTAi%2BG2n34zd5gkjz8oVgFrhwWWmFepQpdgktIhSmclKzqzeYHUyWTQ4phlDFHhDroNHYud7aJ5LBf01%2FXlFcW1tl8Dlrz6c%2BVeJyRgjYwbQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969428c8e6881d-SIN
+alt-svc: h3=":443"; ma=86400
+
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4
+[ cluster.cleverism.com ]---------------------------
+HTTP/1.1 101 Switching Protocols
+Date: Wed, 19 Jul 2023 23:00:11 GMT
+Connection: upgrade
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LzagEMoepSA3wRncDgV%2B%2Fq%2BTwANFYCDatCfiml3Wi7OfmeviUq6caFMDcK9ION5P%2BMaF8oi2GJC4KJkmfL1KldIn9YwGqnHJovFHeNiiZidnXa18FjO3oVkaud9Y6xAo4lUZpA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7e969445b9e15620-SIN
+alt-svc: h3=":443"; ma=86400
+
+SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.4

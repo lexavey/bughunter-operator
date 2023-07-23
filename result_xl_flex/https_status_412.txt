@@ -1,0 +1,10 @@
+[ manga.line.me ]---------------------------
+<!DOCTYPE html>
+<html dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>LINE マンガは日本でのみご利用いただけます｜LINE マンガ</title>
+<meta http-equiv="X-UA-Compatible" content="IE=10">
+<meta name="viewport" content="width=1078">
+
+<meta name="description" content="映画化、アニメ化で話題のマンガなど、約43万点の豊富なラインナップ！最新刊まで揃うストアコーナーでは、お得な1巻無料、複数巻無料キャンペーンも常時開催中！">

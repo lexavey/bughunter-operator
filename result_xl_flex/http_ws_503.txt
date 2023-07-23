@@ -1,0 +1,21 @@
+[ healthcare-cms.line.me ]---------------------------
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+X-Line-Load-Balancer-Error: Yes
+
+[ healthcare-cms.line.me ]---------------------------
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+X-Line-Load-Balancer-Error: Yes
+
+[ healthcare-cms.line.me ]---------------------------
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+X-Line-Load-Balancer-Error: Yes
+

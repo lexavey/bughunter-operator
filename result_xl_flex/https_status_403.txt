@@ -1,0 +1,63 @@
+[ ads.line.me ]---------------------------
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+[ api-pay.line.me ]---------------------------
+<!DOCTYPE html>
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+[ career.line.me ]---------------------------
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+[ home.game.line.me ]---------------------------
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Not found</title>
+    <style>
+      html {
+        font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Meiryo,
+          メイリオ, Osaka, "MS PGothic", arial, helvetica, sans-serif;
+[ proxy-sdbx.line.me ]---------------------------
+<html>
+<head><title>403 Forbidden</title></head>
+<body bgcolor="white">
+<center><h1>403 Forbidden</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+[ urlshortener-server.teams.microsoft.com ]---------------------------
+
+[ urlshortener.teams.microsoft.com ]---------------------------
+
+[ urlshortener-dogfood.teams.microsoft.com ]---------------------------
+
+[ urlshortener-server-int.teams.microsoft.com ]---------------------------
+
+[ scontent.whatsapp.net ]---------------------------
+Unsigned URL

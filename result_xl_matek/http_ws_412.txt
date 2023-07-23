@@ -1,0 +1,36 @@
+[ partner.line.me ]---------------------------
+HTTP/1.1 412 Precondition Failed
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:20 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 166
+Connection: keep-alive
+Keep-Alive: timeout=30
+
+[ partners.line.me ]---------------------------
+HTTP/1.1 412 Precondition Failed
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:20 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 166
+Connection: keep-alive
+Keep-Alive: timeout=30
+
+[ partner.line.me ]---------------------------
+HTTP/1.1 412 Precondition Failed
+Server: nginx
+Date: Fri, 21 Jul 2023 19:25:14 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 166
+Connection: keep-alive
+Keep-Alive: timeout=30
+
+[ partners.line.me ]---------------------------
+HTTP/1.1 412 Precondition Failed
+Server: nginx
+Date: Fri, 21 Jul 2023 19:25:14 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 166
+Connection: keep-alive
+Keep-Alive: timeout=30
+

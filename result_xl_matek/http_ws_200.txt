@@ -1,0 +1,553 @@
+[ app-manga.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:13 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Thu, 15 Jun 2023 11:46:19 GMT
+Connection: keep-alive
+Keep-Alive: timeout=3
+ETag: "648afa0b-0"
+Set-Cookie: ldsuid=k1ySx2S61510P2ZXBCEqAg==; expires=Thu, 19-Oct-23 19:08:13 GMT; path=/; Secure; HttpOnly;
+[ at.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:13 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ audition.line.me ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:08:13 GMT
+Server: Apache
+Set-Cookie: ldsuid=99058f984f1bf483587143b3fd2503ab; path=/; expires=Thu, 19-Oct-23 19:08:13 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+[ blog.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:14 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ d.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:15 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ fortune.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:16 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Tue, 09 Mar 2021 10:06:50 GMT
+Keep-Alive: timeout=3
+ETag: "604748ba-264"
+Accept-Ranges: bytes
+
+[ global-nvapis.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:16 GMT
+Content-Type: application/json;charset=UTF-8
+Content-Length: 93
+Connection: keep-alive
+Keep-Alive: timeout=5
+Vary: Accept-Encoding
+apigw-uuid: 16ae1af4-1902-4990-9869-cf821bba29a5
+
+[ help-o.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:16 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 135045
+Connection: keep-alive
+Keep-Alive: timeout=7
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=8296479B6B9F13448314361909E78C77; Path=/
+ETag: "040195419c9b3da6a235e4ac86804834e"
+[ help2-o.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:16 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 135045
+Connection: keep-alive
+Keep-Alive: timeout=7
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=20C9E59B9A4EED5F61F3D84FE7448CC8; Path=/
+ETag: "040195419c9b3da6a235e4ac86804834e"
+[ insurance.line.me ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:08:17 GMT
+Server: Apache
+Set-Cookie: ldsuid=87e3f4dc164decc03f3ce86a062eecc0; path=/; expires=Thu, 19-Oct-23 19:08:17 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+[ manga.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:18 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Thu, 15 Jun 2023 12:15:31 GMT
+Connection: keep-alive
+Keep-Alive: timeout=3
+ETag: "648b00e3-0"
+Set-Cookie: ldsuid=k1zzs2S616I4mdPNCarSAg==; expires=Thu, 19-Oct-23 19:08:18 GMT; path=/; Secure; HttpOnly;
+[ oa.tr.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:19 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Fri, 26 Jun 2020 09:19:05 GMT
+ETag: "5ef5bd89-264"
+Accept-Ranges: bytes
+
+[ play.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:20 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2322
+Last-Modified: Wed, 21 Jul 2021 12:27:39 GMT
+Connection: keep-alive
+Keep-Alive: timeout=120
+Vary: Accept-Encoding
+ETag: "60f812bb-912"
+[ pointclub.line.me ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:08:20 GMT
+Server: Apache
+Set-Cookie: ldsuid=24f05d320eea5fa1d9cbea12de5eab1d; path=/; expires=Thu, 19-Oct-23 19:08:20 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+[ sandbox-api-pay.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:21 GMT
+Content-Type: text/html
+Content-Length: 612
+Connection: keep-alive
+Last-Modified: Wed, 15 Jan 2020 06:03:31 GMT
+ETag: "5e1eab33-264"
+Accept-Ranges: bytes
+
+[ sandbox-web-pay.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:21 GMT
+Content-Type: text/html
+Content-Length: 612
+Connection: keep-alive
+Last-Modified: Wed, 15 Jan 2020 06:03:31 GMT
+ETag: "5e1eab33-264"
+Accept-Ranges: bytes
+
+[ sg-nvapis.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:21 GMT
+Content-Type: application/json;charset=UTF-8
+Content-Length: 93
+Connection: keep-alive
+Keep-Alive: timeout=5
+Vary: Accept-Encoding
+apigw-uuid: 680864f2-50d4-462e-8aed-66be49edfe18
+
+[ terms2-o.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 135045
+Connection: keep-alive
+Keep-Alive: timeout=7
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=A66DA261E8B23DAC9C39A181893F3AEC; Path=/
+ETag: "040195419c9b3da6a235e4ac86804834e"
+[ terms-o.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 135045
+Connection: keep-alive
+Keep-Alive: timeout=7
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=B5DB9560184F5EB2406C89F35F834762; Path=/
+ETag: "040195419c9b3da6a235e4ac86804834e"
+[ www.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:08:23 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ developers.linecorp.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:09:03 GMT
+Server: Apache
+X-Powered-By: PHP/7.2.34
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+[ nelo2-col.linecorp.com ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:09:04 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Thu, 03 Mar 2022 08:39:11 GMT
+Connection: keep-alive
+ETag: "62207eaf-0"
+Accept-Ranges: bytes
+
+[ linedevday.linecorp.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:09:04 GMT
+Server: Apache
+Set-Cookie: ldsuid=e54c2cd0db31c1f49f094fb07c9efced; path=/; expires=Thu, 19-Oct-23 19:09:04 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Content-Type: text/html; charset=UTF-8
+
+[ app-manga.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:12:54 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Thu, 15 Jun 2023 11:46:15 GMT
+Connection: keep-alive
+Keep-Alive: timeout=3
+ETag: "648afa07-0"
+Set-Cookie: ldsuid=k1ySx2S62LZ+E3KKBCaXAg==; expires=Thu, 19-Oct-23 19:12:54 GMT; path=/; Secure; HttpOnly;
+[ at.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:13:51 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ audition.line.me ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:13:53 GMT
+Server: Apache
+Set-Cookie: ldsuid=3c84b834ec0e591869fc286d614137ad; path=/; expires=Thu, 19-Oct-23 19:13:53 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+[ blockpage.xl.co.id ]---------------------------
+HTTP/1.1 200 OK
+Server: awselb/2.0
+Date: Fri, 21 Jul 2023 19:14:27 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 148
+Connection: keep-alive
+
+[ blog.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:14:28 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ d.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:15:45 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ developers.linecorp.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:16:06 GMT
+Server: Apache
+X-Powered-By: PHP/7.2.34
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+[ fortune.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:17:39 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Tue, 09 Mar 2021 10:06:50 GMT
+Keep-Alive: timeout=3
+ETag: "604748ba-264"
+Accept-Ranges: bytes
+
+[ help2-o.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:18:53 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 135045
+Connection: keep-alive
+Keep-Alive: timeout=7
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=A92085F23D26BA50154DC6C7495738FD; Path=/
+ETag: "040195419c9b3da6a235e4ac86804834e"
+[ insurance.line.me ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:19:49 GMT
+Server: Apache
+Set-Cookie: ldsuid=967397d414ce9b8e4a34d9f30cb5374d; path=/; expires=Thu, 19-Oct-23 19:19:49 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+[ linedevday.linecorp.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:21:36 GMT
+Server: Apache
+Set-Cookie: ldsuid=2b1a65d256e64e137fcca147599d5ce0; path=/; expires=Thu, 19-Oct-23 19:21:36 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Content-Type: text/html; charset=UTF-8
+
+[ manga-api-gateway.line-apps.com ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:22:28 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Thu, 15 Jun 2023 11:32:20 GMT
+Connection: keep-alive
+Keep-Alive: timeout=3
+ETag: "648af6c4-0"
+Set-Cookie: ldsuid=k1y442S62vQv9lBtJUkiAg==; expires=Thu, 19-Oct-23 19:22:28 GMT; path=/; Secure; HttpOnly;
+[ manga.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:22:28 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Thu, 15 Jun 2023 12:15:31 GMT
+Connection: keep-alive
+Keep-Alive: timeout=3
+ETag: "648b00e3-0"
+Set-Cookie: ldsuid=k1zzs2S62vQ3OdPLCc4nAg==; expires=Thu, 19-Oct-23 19:22:28 GMT; path=/; Secure; HttpOnly;
+[ music-tw-img.line-apps.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:23:10 GMT
+Content-Type: text/plain
+Content-Length: 2
+Connection: keep-alive
+
+[ nelo2-col.linecorp.com ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:24:00 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Fri, 04 Mar 2022 08:44:25 GMT
+Connection: keep-alive
+ETag: "6221d169-0"
+Accept-Ranges: bytes
+
+[ oa.tr.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:24:33 GMT
+Content-Type: text/html
+Content-Length: 612
+Last-Modified: Fri, 26 Jun 2020 09:19:05 GMT
+ETag: "5ef5bd89-264"
+Accept-Ranges: bytes
+
+[ play-static-beta.line-apps.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:25:29 GMT
+Server: Apache
+Last-Modified: Tue, 01 Sep 2020 07:29:44 GMT
+Accept-Ranges: bytes
+Content-Length: 23312
+Cache-Control: max-age=0
+Expires: Fri, 21 Jul 2023 19:25:29 GMT
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+[ play-static.line-apps.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:25:29 GMT
+Server: Apache
+Last-Modified: Thu, 03 Sep 2020 02:25:39 GMT
+Accept-Ranges: bytes
+Content-Length: 23312
+Cache-Control: max-age=7776000
+Expires: Thu, 19 Oct 2023 19:25:29 GMT
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+[ play.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:25:29 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 2322
+Last-Modified: Wed, 21 Jul 2021 12:27:39 GMT
+Connection: keep-alive
+Keep-Alive: timeout=120
+Vary: Accept-Encoding
+ETag: "60f812bb-912"
+[ pointclub.line.me ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:25:33 GMT
+Server: Apache
+Set-Cookie: ldsuid=1395fe4dc703d3e0ba6015cb006c2280; path=/; expires=Thu, 19-Oct-23 19:25:33 GMT
+Last-Modified: Wed, 04 Jul 2018 07:06:06 GMT
+Accept-Ranges: bytes
+Content-Length: 50
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+[ sandbox-web-pay.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:26:51 GMT
+Content-Type: text/html
+Content-Length: 612
+Connection: keep-alive
+Last-Modified: Wed, 15 Jan 2020 06:03:31 GMT
+ETag: "5e1eab33-264"
+Accept-Ranges: bytes
+
+[ sandbox-api-pay.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:26:51 GMT
+Content-Type: text/html
+Content-Length: 612
+Connection: keep-alive
+Last-Modified: Wed, 15 Jan 2020 06:03:31 GMT
+ETag: "5e1eab33-264"
+Accept-Ranges: bytes
+
+[ server4-8.operamini.com ]---------------------------
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 0
+Date: Fri, 21 Jul 2023 19:27:07 GMT
+Content-Type: application/octet-stream
+Last-Modified: Fri, 21 Jul 2023 19:27:07 GMT
+Server: Pike v8.0 release 908: HTTP Server module
+
+[ sport-api.antscore.co ]---------------------------
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Server: Microsoft-IIS/10.0
+X-Powered-By: PHP/7.4.30
+X-Powered-By: ASP.NET
+Date: Fri, 21 Jul 2023 19:27:51 GMT
+Content-Length: 79650
+
+[ static.webtoons.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:28:09 GMT
+Server: Apache
+Last-Modified: Mon, 11 Apr 2022 05:05:34 GMT
+Accept-Ranges: bytes
+Content-Length: 0
+Referrer-Policy: unsafe-url
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+[ swag.grab.com ]---------------------------
+HTTP/1.1 200 OK
+Date: Fri, 21 Jul 2023 19:28:22 GMT
+Server: Apache/2
+Last-Modified: Fri, 28 May 2021 23:06:38 GMT
+ETag: "2c-5c36bed96419f"
+Accept-Ranges: bytes
+Content-Length: 44
+Vary: User-Agent
+Keep-Alive: timeout=2, max=100
+Connection: Keep-Alive
+[ terms-o.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:28:33 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 135045
+Connection: keep-alive
+Keep-Alive: timeout=7
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=F610A574B8FF6F0AC7B3F6B2DC0996BD; Path=/
+ETag: "040195419c9b3da6a235e4ac86804834e"
+[ terms2-o.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:28:33 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 135045
+Connection: keep-alive
+Keep-Alive: timeout=7
+Vary: Accept-Encoding
+Set-Cookie: JSESSIONID=697BB0B31EEF4F736537C3BC64DB9A6B; Path=/
+ETag: "040195419c9b3da6a235e4ac86804834e"
+[ u.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:29:00 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+
+[ www.line.me ]---------------------------
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 21 Jul 2023 19:31:03 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 17 Jan 2023 06:07:48 GMT
+ETag: "63c63b34-0"
+Accept-Ranges: bytes
+

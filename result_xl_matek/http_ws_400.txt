@@ -1,0 +1,6770 @@
+[ api.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:13 GMT
+Date: Fri, 21 Jul 2023 19:08:13 GMT
+Connection: close
+
+[ a.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:13 GMT
+Date: Fri, 21 Jul 2023 19:08:13 GMT
+Connection: close
+
+[ api.today.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:13 GMT
+Date: Fri, 21 Jul 2023 19:08:13 GMT
+Connection: close
+
+[ campaign.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:14 GMT
+Date: Fri, 21 Jul 2023 19:08:14 GMT
+Connection: close
+
+[ cube.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:14 GMT
+Date: Fri, 21 Jul 2023 19:08:14 GMT
+Connection: close
+
+[ avatar.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:15 GMT
+Date: Fri, 21 Jul 2023 19:08:15 GMT
+Connection: close
+
+[ creative.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:15 GMT
+Date: Fri, 21 Jul 2023 19:08:15 GMT
+Connection: close
+
+[ deals.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:15 GMT
+Date: Fri, 21 Jul 2023 19:08:15 GMT
+Connection: close
+
+[ buy.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:15 GMT
+Date: Fri, 21 Jul 2023 19:08:15 GMT
+Connection: close
+
+[ doctor.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:15 GMT
+Date: Fri, 21 Jul 2023 19:08:15 GMT
+Connection: close
+
+[ design.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:16 GMT
+Date: Fri, 21 Jul 2023 19:08:16 GMT
+Connection: close
+
+[ guide.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:16 GMT
+Date: Fri, 21 Jul 2023 19:08:16 GMT
+Connection: close
+
+[ event-web.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:16 GMT
+Date: Fri, 21 Jul 2023 19:08:16 GMT
+Connection: close
+
+[ dev.blockchain.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:17 GMT
+Date: Fri, 21 Jul 2023 19:08:17 GMT
+Connection: close
+
+[ help.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:18 GMT
+Date: Fri, 21 Jul 2023 19:08:18 GMT
+Connection: close
+
+[ help2.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:18 GMT
+Date: Fri, 21 Jul 2023 19:08:18 GMT
+Connection: close
+
+[ lan3rd.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:18 GMT
+Date: Fri, 21 Jul 2023 19:08:18 GMT
+Connection: close
+
+[ media.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:18 GMT
+Date: Fri, 21 Jul 2023 19:08:18 GMT
+Connection: close
+
+[ linepay.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:19 GMT
+Date: Fri, 21 Jul 2023 19:08:19 GMT
+Connection: close
+
+[ openchat.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:20 GMT
+Date: Fri, 21 Jul 2023 19:08:20 GMT
+Connection: close
+
+[ reaction.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:20 GMT
+Date: Fri, 21 Jul 2023 19:08:20 GMT
+Connection: close
+
+[ protostar.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:20 GMT
+Date: Fri, 21 Jul 2023 19:08:20 GMT
+Connection: close
+
+[ search.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:21 GMT
+Date: Fri, 21 Jul 2023 19:08:21 GMT
+Connection: close
+
+[ social-plugins.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:21 GMT
+Date: Fri, 21 Jul 2023 19:08:21 GMT
+Connection: close
+
+[ stickershop.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:21 GMT
+Date: Fri, 21 Jul 2023 19:08:21 GMT
+Connection: close
+
+[ terms.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:22 GMT
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Connection: close
+
+[ square-api.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:22 GMT
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Connection: close
+
+[ terms2.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:22 GMT
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Connection: close
+
+[ timeline.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:22 GMT
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Connection: close
+
+[ today.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:22 GMT
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Connection: close
+
+[ themeshop.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:22 GMT
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Connection: close
+
+[ web-oaplus.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:08:22 GMT
+Date: Fri, 21 Jul 2023 19:08:22 GMT
+Connection: close
+
+[ w.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:08:23 GMT
+Date: Fri, 21 Jul 2023 19:08:23 GMT
+Connection: close
+
+[ engineering.linecorp.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:09:03 GMT
+Date: Fri, 21 Jul 2023 19:09:03 GMT
+Connection: close
+
+[ careers.linecorp.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:09:03 GMT
+Date: Fri, 21 Jul 2023 19:09:03 GMT
+Connection: close
+
+[ 5visions1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:11:53 GMT
+Date: Fri, 21 Jul 2023 19:11:53 GMT
+Connection: close
+
+[ a.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:04 GMT
+Date: Fri, 21 Jul 2023 19:12:04 GMT
+Connection: close
+
+[ a950.d.global.perfiphone1.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:09 GMT
+Date: Fri, 21 Jul 2023 19:12:09 GMT
+Connection: close
+
+[ a950.b.global.perfiphone1.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:13 GMT
+Date: Fri, 21 Jul 2023 19:12:13 GMT
+Connection: close
+
+[ account.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:15 GMT
+Date: Fri, 21 Jul 2023 19:12:15 GMT
+Connection: close
+
+[ adobe.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:12:22 GMT
+Date: Fri, 21 Jul 2023 19:12:22 GMT
+Connection: close
+
+[ af-creatives-cdn.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:25 GMT
+Date: Fri, 21 Jul 2023 19:12:25 GMT
+Connection: close
+
+[ aoa3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:41 GMT
+Date: Fri, 21 Jul 2023 19:12:41 GMT
+Connection: close
+
+[ aoa2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:41 GMT
+Date: Fri, 21 Jul 2023 19:12:41 GMT
+Connection: close
+
+[ api.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:48 GMT
+Date: Fri, 21 Jul 2023 19:12:48 GMT
+Connection: close
+
+[ api.today.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:49 GMT
+Date: Fri, 21 Jul 2023 19:12:49 GMT
+Connection: close
+
+[ api2-16-useast2a.musical.ly ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:12:51 GMT
+Date: Fri, 21 Jul 2023 19:12:51 GMT
+Connection: close
+
+[ assetshuluimcom-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:13:49 GMT
+Date: Fri, 21 Jul 2023 19:13:49 GMT
+Connection: close
+
+[ assetsprod2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:13:49 GMT
+Date: Fri, 21 Jul 2023 19:13:49 GMT
+Connection: close
+
+[ audimediacenter-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:13:53 GMT
+Date: Fri, 21 Jul 2023 19:13:53 GMT
+Connection: close
+
+[ auto.qq.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:13:57 GMT
+Date: Fri, 21 Jul 2023 19:13:57 GMT
+Connection: close
+
+[ avatar.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:13:59 GMT
+Date: Fri, 21 Jul 2023 19:13:59 GMT
+Connection: close
+
+[ base-ec2.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:09 GMT
+Date: Fri, 21 Jul 2023 19:14:09 GMT
+Connection: close
+
+[ bcboltnexti2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:12 GMT
+Date: Fri, 21 Jul 2023 19:14:12 GMT
+Connection: close
+
+[ biz-il.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ biz.world.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ bkc20sr6ry21-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:14:25 GMT
+Date: Fri, 21 Jul 2023 19:14:25 GMT
+Connection: close
+
+[ blog-he.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ blog-pt.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ blog-fr.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ blog-it.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ blog-ja.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ blogs.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ bookmarks.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ bugs.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ buy.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:14:40 GMT
+Date: Fri, 21 Jul 2023 19:14:40 GMT
+Connection: close
+
+[ buy.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:14:40 GMT
+Date: Fri, 21 Jul 2023 19:14:40 GMT
+Connection: close
+
+[ bxca-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:41 GMT
+Date: Fri, 21 Jul 2023 19:14:41 GMT
+Connection: close
+
+[ c2901-slbps-sambavideos.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:41 GMT
+Date: Fri, 21 Jul 2023 19:14:41 GMT
+Connection: close
+
+[ calendar.grabtaxi.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:14:44 GMT
+Connection: close
+
+[ campaign.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:14:44 GMT
+Date: Fri, 21 Jul 2023 19:14:44 GMT
+Connection: close
+
+[ car-image.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ careers.linecorp.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:46 GMT
+Date: Fri, 21 Jul 2023 19:14:46 GMT
+Connection: close
+
+[ cbsnhls-i.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:49 GMT
+Date: Fri, 21 Jul 2023 19:14:49 GMT
+Connection: close
+
+[ cdn-aimi.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:14:53 GMT
+Date: Fri, 21 Jul 2023 19:14:53 GMT
+Connection: close
+
+[ cdn.netflix.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:14:58 GMT
+Date: Fri, 21 Jul 2023 19:14:58 GMT
+Connection: close
+
+[ cdngarenanow-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:59 GMT
+Date: Fri, 21 Jul 2023 19:14:59 GMT
+Connection: close
+
+[ cdn3.callofduty.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:59 GMT
+Date: Fri, 21 Jul 2023 19:14:59 GMT
+Connection: close
+
+[ cdnapps-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:14:59 GMT
+Date: Fri, 21 Jul 2023 19:14:59 GMT
+Connection: close
+
+[ cdntest04.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:00 GMT
+Date: Fri, 21 Jul 2023 19:15:00 GMT
+Connection: close
+
+[ centercode.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ cfshopeetw-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:02 GMT
+Date: Fri, 21 Jul 2023 19:15:02 GMT
+Connection: close
+
+[ chachachaf.gcdn.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:02 GMT
+Date: Fri, 21 Jul 2023 19:15:02 GMT
+Connection: close
+
+[ chirashi-static-102.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:06 GMT
+Date: Fri, 21 Jul 2023 19:15:06 GMT
+Connection: close
+
+[ chirashi-static-105.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:06 GMT
+Date: Fri, 21 Jul 2023 19:15:06 GMT
+Connection: close
+
+[ chirashi-static-104.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:06 GMT
+Date: Fri, 21 Jul 2023 19:15:06 GMT
+Connection: close
+
+[ chirashi-static-107.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:06 GMT
+Date: Fri, 21 Jul 2023 19:15:06 GMT
+Connection: close
+
+[ chirashi-static-103.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:15:07 GMT
+Date: Fri, 21 Jul 2023 19:15:07 GMT
+Connection: close
+
+[ chirashi-static-116.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:15:07 GMT
+Date: Fri, 21 Jul 2023 19:15:07 GMT
+Connection: close
+
+[ chirashi-service-static.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:15:07 GMT
+Date: Fri, 21 Jul 2023 19:15:07 GMT
+Connection: close
+
+[ clarovideocdn0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:10 GMT
+Date: Fri, 21 Jul 2023 19:15:10 GMT
+Connection: close
+
+[ client-assets.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ closetelkomsel.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ clova-ota.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:14 GMT
+Date: Fri, 21 Jul 2023 19:15:14 GMT
+Connection: close
+
+[ code.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ com.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:15:17 GMT
+Date: Fri, 21 Jul 2023 19:15:17 GMT
+Connection: close
+
+[ commondatastorage.googleapis.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1555
+Date: Fri, 21 Jul 2023 19:15:18 GMT
+Connection: close
+
+[ community-blog.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ connect.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ console.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ content-storage.googleapis.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1555
+Date: Fri, 21 Jul 2023 19:15:23 GMT
+Connection: close
+
+[ coupons.jio.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:26 GMT
+Date: Fri, 21 Jul 2023 19:15:26 GMT
+Connection: close
+
+[ coupon.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:26 GMT
+Date: Fri, 21 Jul 2023 19:15:26 GMT
+Connection: close
+
+[ creator-static.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:36 GMT
+Date: Fri, 21 Jul 2023 19:15:36 GMT
+Connection: close
+
+[ creators-market-all.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:15:36 GMT
+Date: Fri, 21 Jul 2023 19:15:36 GMT
+Connection: close
+
+[ crossfire.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:38 GMT
+Date: Fri, 21 Jul 2023 19:15:38 GMT
+Connection: close
+
+[ d.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:45 GMT
+Date: Fri, 21 Jul 2023 19:15:45 GMT
+Connection: close
+
+[ d10-invdn-com.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:15:46 GMT
+Date: Fri, 21 Jul 2023 19:15:46 GMT
+Connection: close
+
+[ dash.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:15:55 GMT
+Date: Fri, 21 Jul 2023 19:15:55 GMT
+Connection: close
+
+[ data.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ deals.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:00 GMT
+Date: Fri, 21 Jul 2023 19:16:00 GMT
+Connection: close
+
+[ default22083863-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:00 GMT
+Date: Fri, 21 Jul 2023 19:16:00 GMT
+Connection: close
+
+[ demo.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ design.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:02 GMT
+Date: Fri, 21 Jul 2023 19:16:02 GMT
+Connection: close
+
+[ desktop.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:02 GMT
+Date: Fri, 21 Jul 2023 19:16:02 GMT
+Connection: close
+
+[ dest1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:02 GMT
+Date: Fri, 21 Jul 2023 19:16:02 GMT
+Connection: close
+
+[ dev.blockchain.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:04 GMT
+Date: Fri, 21 Jul 2023 19:16:04 GMT
+Connection: close
+
+[ dev-gb-vod-linetv.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:04 GMT
+Date: Fri, 21 Jul 2023 19:16:04 GMT
+Connection: close
+
+[ dev.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ developer-sg.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:05 GMT
+Date: Fri, 21 Jul 2023 19:16:05 GMT
+Connection: close
+
+[ disneyads0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:12 GMT
+Date: Fri, 21 Jul 2023 19:16:12 GMT
+Connection: close
+
+[ disrupt-dorms.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:16:13 GMT
+Date: Fri, 21 Jul 2023 19:16:13 GMT
+Connection: close
+
+[ docs.grabtaxi.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:16:31 GMT
+Connection: close
+
+[ docs.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ doctor.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:16:32 GMT
+Date: Fri, 21 Jul 2023 19:16:32 GMT
+Connection: close
+
+[ drive.netflix.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:16:37 GMT
+Connection: close
+
+[ dulkizjkkg-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:16:39 GMT
+Date: Fri, 21 Jul 2023 19:16:39 GMT
+Connection: close
+
+[ dy-cdn.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:16:40 GMT
+Date: Fri, 21 Jul 2023 19:16:40 GMT
+Connection: close
+
+[ e.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ eamobile-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:16:44 GMT
+Date: Fri, 21 Jul 2023 19:16:44 GMT
+Connection: close
+
+[ edc.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:16:49 GMT
+Date: Fri, 21 Jul 2023 19:16:49 GMT
+Connection: close
+
+[ editor.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ eee.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ embed.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ empotrar.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ en-advil.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ engineering.linecorp.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:08 GMT
+Date: Fri, 21 Jul 2023 19:17:08 GMT
+Connection: close
+
+[ esi-examples.akamai.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:12 GMT
+Date: Fri, 21 Jul 2023 19:17:12 GMT
+Connection: close
+
+[ etiles1.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etiles3.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etiles4.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etiles7.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etiles2.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etiles6.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etiles5.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etiles8.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ etv-urdu.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:14 GMT
+Date: Fri, 21 Jul 2023 19:17:14 GMT
+Connection: close
+
+[ esossl-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:14 GMT
+Date: Fri, 21 Jul 2023 19:17:14 GMT
+Connection: close
+
+[ eurosporthdlive8-s.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:15 GMT
+Date: Fri, 21 Jul 2023 19:17:15 GMT
+Connection: close
+
+[ event-web.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:15 GMT
+Date: Fri, 21 Jul 2023 19:17:15 GMT
+Connection: close
+
+[ events.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ fbapp-cdn.callofduty.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:22 GMT
+Date: Fri, 21 Jul 2023 19:17:22 GMT
+Connection: close
+
+[ file-igamecj.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:26 GMT
+Date: Fri, 21 Jul 2023 19:17:26 GMT
+Connection: close
+
+[ forum.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ forums.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ foxnewsplayer-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:40 GMT
+Date: Fri, 21 Jul 2023 19:17:40 GMT
+Connection: close
+
+[ ftp.mx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ ftp.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ fts.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:45 GMT
+Date: Fri, 21 Jul 2023 19:17:45 GMT
+Connection: close
+
+[ full.dho.cdn.netmarble.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:46 GMT
+Date: Fri, 21 Jul 2023 19:17:46 GMT
+Connection: close
+
+[ gaggle.twitter.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:17:49 GMT
+Connection: close
+
+[ game-assets-2.clashofclans.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:50 GMT
+Date: Fri, 21 Jul 2023 19:17:50 GMT
+Connection: close
+
+[ game-catcafe.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:50 GMT
+Date: Fri, 21 Jul 2023 19:17:50 GMT
+Connection: close
+
+[ game-lgbfkr.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:50 GMT
+Date: Fri, 21 Jul 2023 19:17:50 GMT
+Connection: close
+
+[ game-lguniv.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-lggrth.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-lgydsg.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-pod.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-portal-web.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-mikan.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-optw.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-lgdfg.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-lgfarm.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-lgbb3.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game-beta.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ game.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:51 GMT
+Date: Fri, 21 Jul 2023 19:17:51 GMT
+Connection: close
+
+[ gamma.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ gdata-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:17:55 GMT
+Date: Fri, 21 Jul 2023 19:17:55 GMT
+Connection: close
+
+[ gholdem.gcdn.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:01 GMT
+Date: Fri, 21 Jul 2023 19:18:01 GMT
+Connection: close
+
+[ ghost0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:01 GMT
+Date: Fri, 21 Jul 2023 19:18:01 GMT
+Connection: close
+
+[ global-mgameapi.netmarble.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:03 GMT
+Date: Fri, 21 Jul 2023 19:18:03 GMT
+Connection: close
+
+[ glz-m-dn.blackdesertm.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:03 GMT
+Date: Fri, 21 Jul 2023 19:18:03 GMT
+Connection: close
+
+[ gmail.shopeemobile.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:18:04 GMT
+Connection: close
+
+[ gnome0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:04 GMT
+Date: Fri, 21 Jul 2023 19:18:04 GMT
+Connection: close
+
+[ gplog-va.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:08 GMT
+Date: Fri, 21 Jul 2023 19:18:08 GMT
+Connection: close
+
+[ graphisoft.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:09 GMT
+Date: Fri, 21 Jul 2023 19:18:09 GMT
+Connection: close
+
+[ greekhls-lh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:18:09 GMT
+Date: Fri, 21 Jul 2023 19:18:09 GMT
+Connection: close
+
+[ groups.grabtaxi.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:18:10 GMT
+Connection: close
+
+[ gs-btsw-game-va3.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:11 GMT
+Date: Fri, 21 Jul 2023 19:18:11 GMT
+Connection: close
+
+[ h1-16.tiktok.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:46 GMT
+Date: Fri, 21 Jul 2023 19:18:46 GMT
+Connection: close
+
+[ hakka-lh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:18:47 GMT
+Date: Fri, 21 Jul 2023 19:18:47 GMT
+Connection: close
+
+[ hangout.secretlab.sg ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:18:48 GMT
+Connection: close
+
+[ hdapp1001-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:50 GMT
+Date: Fri, 21 Jul 2023 19:18:50 GMT
+Connection: close
+
+[ headers-shv-00-ratn0.facebook.com ]---------------------------
+HTTP/1.1 400 default_vip_400
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+Proxy-Status: proxy_internal_response; e_isproxyerr="AcKC4NSlnb1ASz8KlIUowJ4L90PdP_oa6v75N6ue2kfL3ZCwEh8M6SC-VVo9OA"; e_clientaddr="AcKihLkDYGYvt69iSvSjYu6PMGEi9bHYmivLTBElqiv6BRi2tRDMRaQcpIJlImvAIhSDXazMBrw63m6-WA"; e_fb_vipaddr="AcIsbQAQrqxA1PrP63OJjXlwqBSMmQdwr31d7sEd-5-fXIi-bG0vMeCGFYH0fOpk-aQb-tNPQFI"; e_fb_builduser="AcIzw5hs0Ik2w_ono1v-vfo6vXmI3hdBuEBpRR2ahtUvwFeL-sIz9FbuWr_BXo5tsKg"; e_fb_binaryversion="AcJBLX_4yVJlX_yVme0EZoMMFZtPqtP9UE-17KW-EqtfDDAazdR7Y8g8lJqc9iVCZkor4_u8AXVIAYQ4naVkMxrp4p_okla00Vc"; e_proxy="AcKttn8EM66M1jJqIsLwq0jCsI4wXDDTJFjFlHCndXAOiLf6H4IkzigDgiMpIgnKo7gqh-jRGNnFG0Jx3mk"
+Date: Fri, 21 Jul 2023 19:18:50 GMT
+Connection: close
+Content-Length: 2959
+
+[ headers-shv-00-rash0.facebook.com ]---------------------------
+HTTP/1.1 400 default_vip_400
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+Proxy-Status: proxy_internal_response; e_isproxyerr="AcK69almA7NHQI6dGAv8dy7wgZmMugdfPYR9XPZu41RQeXYsniUBX2cDxP83sg"; e_clientaddr="AcKVwj9u9XbNNX2J7m-c2GqOknSyVab5S8mBZzWT7BInGtRgK55hoJFMmaboNl3_LSc5iiCmGPeu3w18fg"; e_fb_vipaddr="AcLr1GJxN25ObXtHCCef5UZxQr-InKqJFEDZlEtA7xU-YwtquI8csA5rpyzgQ0Xg_bRcSa5n2Xk"; e_fb_builduser="AcKhxHd_ToQGSPDpZLPPiARo_LredF48Azx0cTMLTZ5q_e9LoMWnIeU-1tduMWCpr1M"; e_fb_binaryversion="AcIcATrsYFXB1mJyXSuwOQqSJas3a08UyB2VxUzWb2KXvLhHTXu35rgFqexYQ5Ndsw4Webrfe6rXoCeJDssCh538L-Fa8If25jQ"; e_proxy="AcKRPdWeeqyi5zmB0ElWWvpGu05e_vG3ZzYh6ZOscaZbtuUE1OxxHi9fookqEH0OnxZ6TETqBvTqNZYX0wo"
+Date: Fri, 21 Jul 2023 19:18:50 GMT
+Connection: close
+Content-Length: 2959
+
+[ healthcare.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:18:51 GMT
+Date: Fri, 21 Jul 2023 19:18:51 GMT
+Connection: close
+
+[ headers-shv-00-rprn0.facebook.com ]---------------------------
+HTTP/1.1 400 default_vip_400
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+Proxy-Status: proxy_internal_response; e_isproxyerr="AcIG77ePJZPPXqc_CzO6w9UkbSjCHTrz579nhk8WAyYHT3C8JfZ0ql03XbQpGw"; e_clientaddr="AcIlOs1RkvYWnxJb0YAx7Emzo9OQ1t6TlU0gXAow-Pyej-jXx8y4UeKdDHAL229j8YcBcRwzq6wtTF1GDg"; e_fb_vipaddr="AcK-fmN3pw09rDRYh1UMQAILmcaSjxd6HBlSeoD8kID7F6wSBznsM9pEg6FzBphvIQSuPchXpVo"; e_fb_builduser="AcKh12y9rx7emmsaaOwqlFZ4QBZLxl56aN9lrFMA2RkCVFufkkz1q6EbG25zxNKqIuw"; e_fb_binaryversion="AcKXH7t-QcrirQv7Z-Zr2ZvQGc4Z4Q7sQBHZDpYv4hW79KY759UTcV0fM-c8qcuAKdXjAky7cSjv4USzI-3Lv--QnKMiQBTcOgU"; e_proxy="AcIsivLP56j6eicdd5CeMqfGHendIDB1mRRsFKxotRMM3Oh8RmNGDWLxtksw2JW7jewzGsKp4Cer_2M12sCe"
+Date: Fri, 21 Jul 2023 19:18:50 GMT
+Connection: close
+Content-Length: 2959
+
+[ help.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ help2.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:18:53 GMT
+Date: Fri, 21 Jul 2023 19:18:53 GMT
+Connection: close
+
+[ hgsdkcdn.herogame.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:18:55 GMT
+Date: Fri, 21 Jul 2023 19:18:55 GMT
+Connection: close
+
+[ himbiofkip.untan.ac.id ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:18:57 GMT
+Connection: close
+
+[ hog3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:02 GMT
+Date: Fri, 21 Jul 2023 19:19:02 GMT
+Connection: close
+
+[ homepage.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ hostmaster.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ httpm.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ httpsadvil.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ httpsm.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ iacom2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:16 GMT
+Date: Fri, 21 Jul 2023 19:19:16 GMT
+Connection: close
+
+[ ifs.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ ig-s-b-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:27 GMT
+Date: Fri, 21 Jul 2023 19:19:27 GMT
+Connection: close
+
+[ ihog0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:30 GMT
+Date: Fri, 21 Jul 2023 19:19:30 GMT
+Connection: close
+
+[ iis-akakce.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:30 GMT
+Date: Fri, 21 Jul 2023 19:19:30 GMT
+Connection: close
+
+[ il-editor-tiles1.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ il-editor-tiles2.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ il-editor-tiles3.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ il-advil.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:19:31 GMT
+Connection: close
+
+[ il-editor-tiles4.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ il-venues.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ il.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ im-va.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:32 GMT
+Date: Fri, 21 Jul 2023 19:19:32 GMT
+Connection: close
+
+[ images.live.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:34 GMT
+Date: Fri, 21 Jul 2023 19:19:34 GMT
+Connection: close
+
+[ imagesvh1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:34 GMT
+Date: Fri, 21 Jul 2023 19:19:34 GMT
+Connection: close
+
+[ imap.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ imap.ftp.mx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ img-cdn.mobilelegends.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:19:35 GMT
+Date: Fri, 21 Jul 2023 19:19:35 GMT
+Connection: close
+
+[ imgedge.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:36 GMT
+Date: Fri, 21 Jul 2023 19:19:36 GMT
+Connection: close
+
+[ inbox.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ indosat.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ inside.vidio.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:19:42 GMT
+Connection: close
+
+[ intra.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ investors.grab.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:19:53 GMT
+Date: Fri, 21 Jul 2023 19:19:53 GMT
+Connection: close
+
+[ ishop3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:20:28 GMT
+Date: Fri, 21 Jul 2023 19:20:28 GMT
+Connection: close
+
+[ isuba2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:20:29 GMT
+Date: Fri, 21 Jul 2023 19:20:29 GMT
+Connection: close
+
+[ isuba1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:20:29 GMT
+Date: Fri, 21 Jul 2023 19:20:29 GMT
+Connection: close
+
+[ jibjab1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:20:36 GMT
+Date: Fri, 21 Jul 2023 19:20:36 GMT
+Connection: close
+
+[ jsb-va.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:20:44 GMT
+Date: Fri, 21 Jul 2023 19:20:44 GMT
+Connection: close
+
+[ k50-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:20:51 GMT
+Date: Fri, 21 Jul 2023 19:20:51 GMT
+Connection: close
+
+[ kb.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ kds-mva.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:20:55 GMT
+Date: Fri, 21 Jul 2023 19:20:55 GMT
+Connection: close
+
+[ l2rjp-ranking.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:16 GMT
+Date: Fri, 21 Jul 2023 19:21:16 GMT
+Connection: close
+
+[ lan3rd.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:19 GMT
+Date: Fri, 21 Jul 2023 19:21:19 GMT
+Connection: close
+
+[ lcp-static-front.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:22 GMT
+Date: Fri, 21 Jul 2023 19:21:22 GMT
+Connection: close
+
+[ lec-d-na.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:23 GMT
+Date: Fri, 21 Jul 2023 19:21:23 GMT
+Connection: close
+
+[ lf16-effectcdn-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:25 GMT
+Date: Fri, 21 Jul 2023 19:21:25 GMT
+Connection: close
+
+[ lf16-jycdn-va.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:25 GMT
+Date: Fri, 21 Jul 2023 19:21:25 GMT
+Connection: close
+
+[ lf16-passport-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:25 GMT
+Date: Fri, 21 Jul 2023 19:21:25 GMT
+Connection: close
+
+[ lf16-web.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:26 GMT
+Date: Fri, 21 Jul 2023 19:21:26 GMT
+Connection: close
+
+[ lf16-timeshift-va-tk.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:26 GMT
+Date: Fri, 21 Jul 2023 19:21:26 GMT
+Connection: close
+
+[ lg-tv.hotstar.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:28 GMT
+Date: Fri, 21 Jul 2023 19:21:28 GMT
+Connection: close
+
+[ lg3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:28 GMT
+Date: Fri, 21 Jul 2023 19:21:28 GMT
+Connection: close
+
+[ libra-sg.resso.app ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:34 GMT
+Date: Fri, 21 Jul 2023 19:21:34 GMT
+Connection: close
+
+[ librarymedia-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:34 GMT
+Date: Fri, 21 Jul 2023 19:21:34 GMT
+Connection: close
+
+[ line-android-universal-download.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:36 GMT
+Date: Fri, 21 Jul 2023 19:21:36 GMT
+Connection: close
+
+[ lineman.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:21:36 GMT
+Date: Fri, 21 Jul 2023 19:21:36 GMT
+Connection: close
+
+[ linepaytw-user.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:36 GMT
+Date: Fri, 21 Jul 2023 19:21:36 GMT
+Connection: close
+
+[ linepay.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:36 GMT
+Date: Fri, 21 Jul 2023 19:21:36 GMT
+Connection: close
+
+[ linenews-lp.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:21:36 GMT
+Date: Fri, 21 Jul 2023 19:21:36 GMT
+Connection: close
+
+[ linepaytw-cms.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:21:36 GMT
+Date: Fri, 21 Jul 2023 19:21:36 GMT
+Connection: close
+
+[ lists.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ live-tv.iflix.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:39 GMT
+Date: Fri, 21 Jul 2023 19:21:39 GMT
+Connection: close
+
+[ live.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ litmus.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:39 GMT
+Date: Fri, 21 Jul 2023 19:21:39 GMT
+Connection: close
+
+[ live11p.hotstar.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:39 GMT
+Date: Fri, 21 Jul 2023 19:21:39 GMT
+Connection: close
+
+[ liveclass.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:21:40 GMT
+Date: Fri, 21 Jul 2023 19:21:40 GMT
+Connection: close
+
+[ livestream.airtel.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:41 GMT
+Date: Fri, 21 Jul 2023 19:21:41 GMT
+Connection: close
+
+[ lkysearchex51022-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:41 GMT
+Date: Fri, 21 Jul 2023 19:21:41 GMT
+Connection: close
+
+[ ln-play.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:52 GMT
+Date: Fri, 21 Jul 2023 19:21:52 GMT
+Connection: close
+
+[ local.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ log.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:54 GMT
+Date: Fri, 21 Jul 2023 19:21:54 GMT
+Connection: close
+
+[ lss.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:21:58 GMT
+Date: Fri, 21 Jul 2023 19:21:58 GMT
+Connection: close
+
+[ m.tiktok.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:04 GMT
+Date: Fri, 21 Jul 2023 19:22:04 GMT
+Connection: close
+
+[ m.tokopedia.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:04 GMT
+Date: Fri, 21 Jul 2023 19:22:04 GMT
+Connection: close
+
+[ m.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ magenta-musik-360.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:08 GMT
+Date: Fri, 21 Jul 2023 19:22:08 GMT
+Connection: close
+
+[ mail.appsflyer.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:09 GMT
+Connection: close
+
+[ mail.grabtaxi.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:12 GMT
+Connection: close
+
+[ mail.linode.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:15 GMT
+Connection: close
+
+[ mail.seminaire.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:19 GMT
+Connection: close
+
+[ mail.udemy.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:21 GMT
+Connection: close
+
+[ mail.unsoed.ac.id ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:22 GMT
+Connection: close
+
+[ mail.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:22 GMT
+Connection: close
+
+[ mail1.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mailhandler.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ maliva-mcs.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:22:25 GMT
+Date: Fri, 21 Jul 2023 19:22:25 GMT
+Connection: close
+
+[ map.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ maps.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ marbleone-api.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:30 GMT
+Date: Fri, 21 Jul 2023 19:22:30 GMT
+Connection: close
+
+[ marx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ marx-beta.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mbsalive1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:36 GMT
+Date: Fri, 21 Jul 2023 19:22:36 GMT
+Connection: close
+
+[ mcs-va.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:36 GMT
+Date: Fri, 21 Jul 2023 19:22:36 GMT
+Connection: close
+
+[ media.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:22:43 GMT
+Date: Fri, 21 Jul 2023 19:22:43 GMT
+Connection: close
+
+[ mediadev.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:22:43 GMT
+Date: Fri, 21 Jul 2023 19:22:43 GMT
+Connection: close
+
+[ mediagol-meride-tv.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:43 GMT
+Date: Fri, 21 Jul 2023 19:22:43 GMT
+Connection: close
+
+[ medianexilia-meride-tv.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:44 GMT
+Date: Fri, 21 Jul 2023 19:22:44 GMT
+Connection: close
+
+[ melody-assets.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:22:45 GMT
+Date: Fri, 21 Jul 2023 19:22:45 GMT
+Connection: close
+
+[ melody.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:45 GMT
+Date: Fri, 21 Jul 2023 19:22:45 GMT
+Connection: close
+
+[ melody-static.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:45 GMT
+Date: Fri, 21 Jul 2023 19:22:45 GMT
+Connection: close
+
+[ melody-report.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:45 GMT
+Date: Fri, 21 Jul 2023 19:22:45 GMT
+Connection: close
+
+[ mfile.akamai.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:47 GMT
+Date: Fri, 21 Jul 2023 19:22:47 GMT
+Connection: close
+
+[ mgm-ssai.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:22:47 GMT
+Date: Fri, 21 Jul 2023 19:22:47 GMT
+Connection: close
+
+[ mitra.tokopedia.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:51 GMT
+Date: Fri, 21 Jul 2023 19:22:51 GMT
+Connection: close
+
+[ mmesbkildq-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:52 GMT
+Date: Fri, 21 Jul 2023 19:22:52 GMT
+Connection: close
+
+[ mobile-web.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mobile-web.world.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mobile.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mobileauth-global.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:22:55 GMT
+Date: Fri, 21 Jul 2023 19:22:55 GMT
+Connection: close
+
+[ momak.gcdn.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:57 GMT
+Date: Fri, 21 Jul 2023 19:22:57 GMT
+Connection: close
+
+[ momam.gcdn.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:22:58 GMT
+Date: Fri, 21 Jul 2023 19:22:58 GMT
+Connection: close
+
+[ mos.appsflyer.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:22:59 GMT
+Connection: close
+
+[ movies.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ movilidad.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ msleurope2s.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:23:03 GMT
+Date: Fri, 21 Jul 2023 19:23:03 GMT
+Connection: close
+
+[ msluk5s.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:23:03 GMT
+Date: Fri, 21 Jul 2023 19:23:03 GMT
+Connection: close
+
+[ mssdk-va.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:23:04 GMT
+Date: Fri, 21 Jul 2023 19:23:04 GMT
+Connection: close
+
+[ music-jp-dn.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:23:10 GMT
+Date: Fri, 21 Jul 2023 19:23:10 GMT
+Connection: close
+
+[ mx.mx.mx.mx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mx.mx.mx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mx.mx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ my.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ mysql.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ n2baduk.gcdn.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:23:18 GMT
+Date: Fri, 21 Jul 2023 19:23:18 GMT
+Connection: close
+
+[ na.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ nanakr.gcdn.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:23:21 GMT
+Date: Fri, 21 Jul 2023 19:23:21 GMT
+Connection: close
+
+[ nes.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:01 GMT
+Date: Fri, 21 Jul 2023 19:24:01 GMT
+Connection: close
+
+[ neuclnbavodns.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:03 GMT
+Date: Fri, 21 Jul 2023 19:24:03 GMT
+Connection: close
+
+[ new.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ newsletter.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ newwww.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ nhknewssimul-i.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:24:07 GMT
+Date: Fri, 21 Jul 2023 19:24:07 GMT
+Connection: close
+
+[ nhks-vh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:24:08 GMT
+Date: Fri, 21 Jul 2023 19:24:08 GMT
+Connection: close
+
+[ nmbillgw.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:10 GMT
+Date: Fri, 21 Jul 2023 19:24:10 GMT
+Connection: close
+
+[ nmmedia.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:10 GMT
+Date: Fri, 21 Jul 2023 19:24:10 GMT
+Connection: close
+
+[ northeastservice-lh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:12 GMT
+Date: Fri, 21 Jul 2023 19:24:12 GMT
+Connection: close
+
+[ oamm.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:33 GMT
+Date: Fri, 21 Jul 2023 19:24:33 GMT
+Connection: close
+
+[ oaplus-media-manager.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:24:33 GMT
+Date: Fri, 21 Jul 2023 19:24:33 GMT
+Connection: close
+
+[ obs-beta.line-apps.com ]---------------------------
+HTTP/1.1 400 Bad Request
+content-length: 0
+Date: Fri, 21 Jul 2023 19:24:34 GMT
+x-obs-debug-id: bfcaf2f0FMRDDoPh-69bc0a78-1689967474-3816842-h1c.1_kr1-fp
+x-obs-via: obs002-v6poc-jp2p-dev
+x-obs-debug-error: INVALID_REQUEST_COMMAND
+connection: close
+
+[ obs-th.line-apps.com ]---------------------------
+HTTP/1.1 400 Bad Request
+content-length: 0
+Date: Fri, 21 Jul 2023 19:24:34 GMT
+x-obs-debug-id: e68f2614gn5SjgJe-3d4c8e2a-1689967474-371192071-h1c.1_sg1-fp
+connection: close
+
+[ obs.line-apps.com ]---------------------------
+HTTP/1.1 400 Bad Request
+content-length: 0
+Date: Fri, 21 Jul 2023 19:24:34 GMT
+x-obs-debug-id: 85ba7f395ZhMoc7p-cd312399-1689967474-368871074-h1c.1_sg1-fp
+connection: close
+
+[ obs.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:24:34 GMT
+Date: Fri, 21 Jul 2023 19:24:34 GMT
+Connection: close
+
+[ obs-rc.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:24:34 GMT
+Date: Fri, 21 Jul 2023 19:24:34 GMT
+Connection: close
+
+[ ocb-1.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:34 GMT
+Date: Fri, 21 Jul 2023 19:24:34 GMT
+Connection: close
+
+[ octoshape-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:35 GMT
+Date: Fri, 21 Jul 2023 19:24:35 GMT
+Connection: close
+
+[ official.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:54 GMT
+Date: Fri, 21 Jul 2023 19:24:54 GMT
+Connection: close
+
+[ onelinksmartscript.appsflyer.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:56 GMT
+Date: Fri, 21 Jul 2023 19:24:56 GMT
+Connection: close
+
+[ online.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ open-api.tiktok.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:24:58 GMT
+Date: Fri, 21 Jul 2023 19:24:58 GMT
+Connection: close
+
+[ openchat.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:24:58 GMT
+Date: Fri, 21 Jul 2023 19:24:58 GMT
+Connection: close
+
+[ order.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ order-management-mobile.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:01 GMT
+Date: Fri, 21 Jul 2023 19:25:01 GMT
+Connection: close
+
+[ p16-athena-sign-sg.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:25:05 GMT
+Date: Fri, 21 Jul 2023 19:25:05 GMT
+Connection: close
+
+[ p16-creative-tool-sg.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:05 GMT
+Date: Fri, 21 Jul 2023 19:25:05 GMT
+Connection: close
+
+[ p16-ef-sg.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-gogokid-sg.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-gimage-va.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-hera-va.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-magic-sg.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-mt-sg-a.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-security-va.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-musical-va.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-sg-default.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-tiktok-sg-h2.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-musical-va-ab.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-tiktok-sign-va-h2.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-ulike-sg.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ p16-tiktok-va.ibyteimg.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:06 GMT
+Date: Fri, 21 Jul 2023 19:25:06 GMT
+Connection: close
+
+[ page.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:12 GMT
+Date: Fri, 21 Jul 2023 19:25:12 GMT
+Connection: close
+
+[ paginaintervenida.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:12 GMT
+Date: Fri, 21 Jul 2023 19:25:12 GMT
+Connection: close
+
+[ panshi.qq.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:14 GMT
+Date: Fri, 21 Jul 2023 19:25:14 GMT
+Connection: close
+
+[ patch.board.cdn.netmarble.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:15 GMT
+Date: Fri, 21 Jul 2023 19:25:15 GMT
+Connection: close
+
+[ patch.ma9ma9.cdn.netmarble.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:16 GMT
+Date: Fri, 21 Jul 2023 19:25:16 GMT
+Connection: close
+
+[ patch.mstar.cdn.netmarble.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:25:16 GMT
+Date: Fri, 21 Jul 2023 19:25:16 GMT
+Connection: close
+
+[ personalization.vidio.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:23 GMT
+Date: Fri, 21 Jul 2023 19:25:23 GMT
+Connection: close
+
+[ pfm1hycdn01-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:24 GMT
+Date: Fri, 21 Jul 2023 19:25:24 GMT
+Connection: close
+
+[ photos.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ pic.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ pictures.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ pics.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ play-static.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:29 GMT
+Date: Fri, 21 Jul 2023 19:25:29 GMT
+Connection: close
+
+[ pod.game.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:34 GMT
+Date: Fri, 21 Jul 2023 19:25:34 GMT
+Connection: close
+
+[ pod-payment.game.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:34 GMT
+Date: Fri, 21 Jul 2023 19:25:34 GMT
+Connection: close
+
+[ prd-info-umamusume.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:39 GMT
+Date: Fri, 21 Jul 2023 19:25:39 GMT
+Connection: close
+
+[ prdshoplimnlcdn.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:39 GMT
+Date: Fri, 21 Jul 2023 19:25:39 GMT
+Connection: close
+
+[ preprod.iflix.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:39 GMT
+Date: Fri, 21 Jul 2023 19:25:39 GMT
+Connection: close
+
+[ prerelease.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ prdshopnbocdn.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:40 GMT
+Date: Fri, 21 Jul 2023 19:25:40 GMT
+Connection: close
+
+[ prod-myplanetcdn-ak.herogame.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:43 GMT
+Date: Fri, 21 Jul 2023 19:25:43 GMT
+Connection: close
+
+[ profile.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:44 GMT
+Date: Fri, 21 Jul 2023 19:25:44 GMT
+Connection: close
+
+[ profile.netmarble.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:44 GMT
+Date: Fri, 21 Jul 2023 19:25:44 GMT
+Connection: close
+
+[ protostar.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:25:46 GMT
+Date: Fri, 21 Jul 2023 19:25:46 GMT
+Connection: close
+
+[ pvbps-sambavideos.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:25:54 GMT
+Date: Fri, 21 Jul 2023 19:25:54 GMT
+Connection: close
+
+[ qr-official.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:25:58 GMT
+Date: Fri, 21 Jul 2023 19:25:58 GMT
+Connection: close
+
+[ rcavca.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:25 GMT
+Date: Fri, 21 Jul 2023 19:26:25 GMT
+Connection: close
+
+[ rdio0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:25 GMT
+Date: Fri, 21 Jul 2023 19:26:25 GMT
+Connection: close
+
+[ reaction.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:25 GMT
+Date: Fri, 21 Jul 2023 19:26:25 GMT
+Connection: close
+
+[ redbox1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:26:27 GMT
+Date: Fri, 21 Jul 2023 19:26:27 GMT
+Connection: close
+
+[ repository-server-row.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ res-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:30 GMT
+Date: Fri, 21 Jul 2023 19:26:30 GMT
+Connection: close
+
+[ rfalive4.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe-channel-13.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe04.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe02.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe-channel-21.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe06.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe13.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe20.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe22.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rfe19.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:36 GMT
+Date: Fri, 21 Jul 2023 19:26:36 GMT
+Connection: close
+
+[ rmtvlive-lh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:26:39 GMT
+Date: Fri, 21 Jul 2023 19:26:39 GMT
+Connection: close
+
+[ rndntpmgnj-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:26:39 GMT
+Date: Fri, 21 Jul 2023 19:26:39 GMT
+Connection: close
+
+[ rocklivephotoss3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:26:40 GMT
+Date: Fri, 21 Jul 2023 19:26:40 GMT
+Connection: close
+
+[ row.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ row-advil.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:26:41 GMT
+Connection: close
+
+[ rpgavatar0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:42 GMT
+Date: Fri, 21 Jul 2023 19:26:42 GMT
+Connection: close
+
+[ rtc-logger-va.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:43 GMT
+Date: Fri, 21 Jul 2023 19:26:43 GMT
+Connection: close
+
+[ rtc-access-sg.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:43 GMT
+Date: Fri, 21 Jul 2023 19:26:43 GMT
+Connection: close
+
+[ rtc-sg.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:43 GMT
+Date: Fri, 21 Jul 2023 19:26:43 GMT
+Connection: close
+
+[ rthklive2-lh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:43 GMT
+Date: Fri, 21 Jul 2023 19:26:43 GMT
+Connection: close
+
+[ ru-advil.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ rycg0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:45 GMT
+Date: Fri, 21 Jul 2023 19:26:45 GMT
+Connection: close
+
+[ rycamelot1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:45 GMT
+Date: Fri, 21 Jul 2023 19:26:45 GMT
+Connection: close
+
+[ s16.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:46 GMT
+Date: Fri, 21 Jul 2023 19:26:46 GMT
+Connection: close
+
+[ s16-u2.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:46 GMT
+Date: Fri, 21 Jul 2023 19:26:46 GMT
+Connection: close
+
+[ s16.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:46 GMT
+Date: Fri, 21 Jul 2023 19:26:46 GMT
+Connection: close
+
+[ s3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:49 GMT
+Date: Fri, 21 Jul 2023 19:26:49 GMT
+Connection: close
+
+[ saimg-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:50 GMT
+Date: Fri, 21 Jul 2023 19:26:50 GMT
+Connection: close
+
+[ scdn.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:26:54 GMT
+Date: Fri, 21 Jul 2023 19:26:54 GMT
+Connection: close
+
+[ sc-shopend.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:54 GMT
+Date: Fri, 21 Jul 2023 19:26:54 GMT
+Connection: close
+
+[ sc-oms-front.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:26:54 GMT
+Date: Fri, 21 Jul 2023 19:26:54 GMT
+Connection: close
+
+[ scdn.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:55 GMT
+Date: Fri, 21 Jul 2023 19:26:55 GMT
+Connection: close
+
+[ sdfp-va.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:26:59 GMT
+Date: Fri, 21 Jul 2023 19:26:59 GMT
+Connection: close
+
+[ search.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:00 GMT
+Date: Fri, 21 Jul 2023 19:27:00 GMT
+Connection: close
+
+[ search.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ search.microsoft.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ search1901451-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ search00949361-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ search37085340-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ search4360471-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ search5167480-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ search9683493-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ searchinternet-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ searchsimple-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:01 GMT
+Date: Fri, 21 Jul 2023 19:27:01 GMT
+Connection: close
+
+[ seller.tokopedia.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:04 GMT
+Date: Fri, 21 Jul 2023 19:27:04 GMT
+Connection: close
+
+[ service.hotstar.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:07 GMT
+Date: Fri, 21 Jul 2023 19:27:07 GMT
+Connection: close
+
+[ services.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ setindia-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:07 GMT
+Date: Fri, 21 Jul 2023 19:27:07 GMT
+Connection: close
+
+[ sf-hs-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:08 GMT
+Date: Fri, 21 Jul 2023 19:27:08 GMT
+Connection: close
+
+[ sf-tb-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:08 GMT
+Date: Fri, 21 Jul 2023 19:27:08 GMT
+Connection: close
+
+[ sf16-draftcdn-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:08 GMT
+Date: Fri, 21 Jul 2023 19:27:08 GMT
+Connection: close
+
+[ sf16-cgfe-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:08 GMT
+Date: Fri, 21 Jul 2023 19:27:08 GMT
+Connection: close
+
+[ sf16-cgfe-va.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:08 GMT
+Date: Fri, 21 Jul 2023 19:27:08 GMT
+Connection: close
+
+[ sf16-scmcdn-gcp.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:08 GMT
+Date: Fri, 21 Jul 2023 19:27:08 GMT
+Connection: close
+
+[ sf16-pitayacdn.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:08 GMT
+Date: Fri, 21 Jul 2023 19:27:08 GMT
+Connection: close
+
+[ sf16-secsvc-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:09 GMT
+Date: Fri, 21 Jul 2023 19:27:09 GMT
+Connection: close
+
+[ sf16-short-sg.bytedapm.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:09 GMT
+Date: Fri, 21 Jul 2023 19:27:09 GMT
+Connection: close
+
+[ sf16-secsvc-va.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:09 GMT
+Date: Fri, 21 Jul 2023 19:27:09 GMT
+Connection: close
+
+[ sf16-short-gcp.bytedapm.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:09 GMT
+Date: Fri, 21 Jul 2023 19:27:09 GMT
+Connection: close
+
+[ sf16-webcast.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:09 GMT
+Date: Fri, 21 Jul 2023 19:27:09 GMT
+Connection: close
+
+[ sf16-ugcdn-sg.ibytedtos.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:09 GMT
+Date: Fri, 21 Jul 2023 19:27:09 GMT
+Connection: close
+
+[ sf21-webcast.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:10 GMT
+Date: Fri, 21 Jul 2023 19:27:10 GMT
+Connection: close
+
+[ shahidstatic4.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:14 GMT
+Date: Fri, 21 Jul 2023 19:27:14 GMT
+Connection: close
+
+[ shop.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:16 GMT
+Date: Fri, 21 Jul 2023 19:27:16 GMT
+Connection: close
+
+[ shop31-makeshop.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:16 GMT
+Date: Fri, 21 Jul 2023 19:27:16 GMT
+Connection: close
+
+[ shop35-makeshop.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:16 GMT
+Date: Fri, 21 Jul 2023 19:27:16 GMT
+Connection: close
+
+[ shopping.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:17 GMT
+Date: Fri, 21 Jul 2023 19:27:17 GMT
+Connection: close
+
+[ skynz.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:26 GMT
+Date: Fri, 21 Jul 2023 19:27:26 GMT
+Connection: close
+
+[ skystreams-lh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:26 GMT
+Date: Fri, 21 Jul 2023 19:27:26 GMT
+Connection: close
+
+[ slovak.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ smr-va.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:29 GMT
+Date: Fri, 21 Jul 2023 19:27:29 GMT
+Connection: close
+
+[ smtp.ftp.mx.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ smtp.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ snackvideo.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:33 GMT
+Date: Fri, 21 Jul 2023 19:27:33 GMT
+Connection: close
+
+[ snappytvpoc-vh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:34 GMT
+Date: Fri, 21 Jul 2023 19:27:34 GMT
+Connection: close
+
+[ snapondev.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:34 GMT
+Date: Fri, 21 Jul 2023 19:27:34 GMT
+Connection: close
+
+[ social-plugins.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:45 GMT
+Date: Fri, 21 Jul 2023 19:27:45 GMT
+Connection: close
+
+[ sonebo-dl.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:46 GMT
+Date: Fri, 21 Jul 2023 19:27:46 GMT
+Connection: close
+
+[ sp2-campaign.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:48 GMT
+Date: Fri, 21 Jul 2023 19:27:48 GMT
+Connection: close
+
+[ speech-alisg.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:49 GMT
+Date: Fri, 21 Jul 2023 19:27:49 GMT
+Connection: close
+
+[ spot-graph-public.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:27:51 GMT
+Date: Fri, 21 Jul 2023 19:27:51 GMT
+Connection: close
+
+[ spot-web.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:51 GMT
+Date: Fri, 21 Jul 2023 19:27:51 GMT
+Connection: close
+
+[ sprofile.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:54 GMT
+Date: Fri, 21 Jul 2023 19:27:54 GMT
+Connection: close
+
+[ srd5czc7ran5gyqhbyla-pxwqk7-36c5eba38-clientnsv4-s.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:27:58 GMT
+Date: Fri, 21 Jul 2023 19:27:58 GMT
+Connection: close
+
+[ square-api.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:27:58 GMT
+Date: Fri, 21 Jul 2023 19:27:58 GMT
+Connection: close
+
+[ ssl.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ sstatic-linetv.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:04 GMT
+Date: Fri, 21 Jul 2023 19:28:04 GMT
+Connection: close
+
+[ stageimage-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:05 GMT
+Date: Fri, 21 Jul 2023 19:28:05 GMT
+Connection: close
+
+[ staging.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ starling-sg.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:07 GMT
+Date: Fri, 21 Jul 2023 19:28:07 GMT
+Connection: close
+
+[ starling-va.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:07 GMT
+Date: Fri, 21 Jul 2023 19:28:07 GMT
+Connection: close
+
+[ starling-sg.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:07 GMT
+Date: Fri, 21 Jul 2023 19:28:07 GMT
+Connection: close
+
+[ starts0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:07 GMT
+Date: Fri, 21 Jul 2023 19:28:07 GMT
+Connection: close
+
+[ static-briefly.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:08 GMT
+Date: Fri, 21 Jul 2023 19:28:08 GMT
+Connection: close
+
+[ static-entertainment-wus-s-msn-com.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:08 GMT
+Date: Fri, 21 Jul 2023 19:28:08 GMT
+Connection: close
+
+[ static-legit.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:08 GMT
+Date: Fri, 21 Jul 2023 19:28:08 GMT
+Connection: close
+
+[ static-mrc-pay.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:08 GMT
+Date: Fri, 21 Jul 2023 19:28:08 GMT
+Connection: close
+
+[ static-today.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:08 GMT
+Date: Fri, 21 Jul 2023 19:28:08 GMT
+Connection: close
+
+[ static-webservicesops.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:08 GMT
+Date: Fri, 21 Jul 2023 19:28:08 GMT
+Connection: close
+
+[ static-tvl.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:28:08 GMT
+Date: Fri, 21 Jul 2023 19:28:08 GMT
+Connection: close
+
+[ static.speedtest.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:09 GMT
+Date: Fri, 21 Jul 2023 19:28:09 GMT
+Connection: close
+
+[ static0-web-prod-vidio.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:10 GMT
+Date: Fri, 21 Jul 2023 19:28:10 GMT
+Connection: close
+
+[ stats.appsflyer.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:10 GMT
+Date: Fri, 21 Jul 2023 19:28:10 GMT
+Connection: close
+
+[ status-il.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ status.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ steamcommunity-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:11 GMT
+Date: Fri, 21 Jul 2023 19:28:11 GMT
+Connection: close
+
+[ stickershop.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:12 GMT
+Date: Fri, 21 Jul 2023 19:28:12 GMT
+Connection: close
+
+[ stickers.vidio.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:12 GMT
+Date: Fri, 21 Jul 2023 19:28:12 GMT
+Connection: close
+
+[ stickershop-beta.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:12 GMT
+Date: Fri, 21 Jul 2023 19:28:12 GMT
+Connection: close
+
+[ stickershop.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:12 GMT
+Date: Fri, 21 Jul 2023 19:28:12 GMT
+Connection: close
+
+[ store-resources-disneyjp.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:13 GMT
+Date: Fri, 21 Jul 2023 19:28:13 GMT
+Connection: close
+
+[ streamtvago.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:15 GMT
+Date: Fri, 21 Jul 2023 19:28:15 GMT
+Connection: close
+
+[ stv-live.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:16 GMT
+Date: Fri, 21 Jul 2023 19:28:16 GMT
+Connection: close
+
+[ studyroom-obj.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:28:16 GMT
+Date: Fri, 21 Jul 2023 19:28:16 GMT
+Connection: close
+
+[ suggestions.tiktok.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:17 GMT
+Date: Fri, 21 Jul 2023 19:28:17 GMT
+Connection: close
+
+[ svt-vod-5i.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:22 GMT
+Date: Fri, 21 Jul 2023 19:28:22 GMT
+Connection: close
+
+[ svt-vod-3n.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:22 GMT
+Date: Fri, 21 Jul 2023 19:28:22 GMT
+Connection: close
+
+[ svt-vod-4k.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:22 GMT
+Date: Fri, 21 Jul 2023 19:28:22 GMT
+Connection: close
+
+[ t.tiktok.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:24 GMT
+Date: Fri, 21 Jul 2023 19:28:24 GMT
+Connection: close
+
+[ ta.tokopedia.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:24 GMT
+Date: Fri, 21 Jul 2023 19:28:24 GMT
+Connection: close
+
+[ telefe-static.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:32 GMT
+Date: Fri, 21 Jul 2023 19:28:32 GMT
+Connection: close
+
+[ telkomse.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ telkomsel.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ tenniscom.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:33 GMT
+Date: Fri, 21 Jul 2023 19:28:33 GMT
+Connection: close
+
+[ terms.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:33 GMT
+Date: Fri, 21 Jul 2023 19:28:33 GMT
+Connection: close
+
+[ terms2.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:33 GMT
+Date: Fri, 21 Jul 2023 19:28:33 GMT
+Connection: close
+
+[ test.starmakerstudios.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:28:34 GMT
+Connection: close
+
+[ test.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ thecompass-es.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ theblaze4.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:36 GMT
+Date: Fri, 21 Jul 2023 19:28:36 GMT
+Connection: close
+
+[ thecompass-pt.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ thecompass.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ themeshop.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:37 GMT
+Date: Fri, 21 Jul 2023 19:28:37 GMT
+Connection: close
+
+[ tiles1.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ tiles3.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ tiles2.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ tiles4.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ timeline.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:39 GMT
+Date: Fri, 21 Jul 2023 19:28:39 GMT
+Connection: close
+
+[ tl-quick-test.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:28:40 GMT
+Date: Fri, 21 Jul 2023 19:28:40 GMT
+Connection: close
+
+[ tnc16-useast1a.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:41 GMT
+Date: Fri, 21 Jul 2023 19:28:41 GMT
+Connection: close
+
+[ today.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:41 GMT
+Date: Fri, 21 Jul 2023 19:28:41 GMT
+Connection: close
+
+[ tos-awsbr16-up.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:44 GMT
+Date: Fri, 21 Jul 2023 19:28:44 GMT
+Connection: close
+
+[ tos-awsfr16-up.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:44 GMT
+Date: Fri, 21 Jul 2023 19:28:44 GMT
+Connection: close
+
+[ tos-awsfr16-up-va.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:44 GMT
+Date: Fri, 21 Jul 2023 19:28:44 GMT
+Connection: close
+
+[ tos-awsin16-up.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:44 GMT
+Date: Fri, 21 Jul 2023 19:28:44 GMT
+Connection: close
+
+[ tos-awssg16-up-va.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:44 GMT
+Date: Fri, 21 Jul 2023 19:28:44 GMT
+Connection: close
+
+[ tos-awssg16-up.byteoversea.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:44 GMT
+Date: Fri, 21 Jul 2023 19:28:44 GMT
+Connection: close
+
+[ tos-d-maliva16-up-va.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:45 GMT
+Date: Fri, 21 Jul 2023 19:28:45 GMT
+Connection: close
+
+[ tos-maliva16-up.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:45 GMT
+Date: Fri, 21 Jul 2023 19:28:45 GMT
+Connection: close
+
+[ tos-maliva16-up-va.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:45 GMT
+Date: Fri, 21 Jul 2023 19:28:45 GMT
+Connection: close
+
+[ tp-pay-sg.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:46 GMT
+Date: Fri, 21 Jul 2023 19:28:46 GMT
+Connection: close
+
+[ tp-pay-mva.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:46 GMT
+Date: Fri, 21 Jul 2023 19:28:46 GMT
+Connection: close
+
+[ training.akamai.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:48 GMT
+Date: Fri, 21 Jul 2023 19:28:48 GMT
+Connection: close
+
+[ travel3d-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:52 GMT
+Date: Fri, 21 Jul 2023 19:28:52 GMT
+Connection: close
+
+[ tts.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ ttsgw.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ ttsgw.world.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ tv-canary.vidio.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:57 GMT
+Date: Fri, 21 Jul 2023 19:28:57 GMT
+Connection: close
+
+[ tv.hotstar.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:57 GMT
+Date: Fri, 21 Jul 2023 19:28:57 GMT
+Connection: close
+
+[ tvaconf.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:58 GMT
+Date: Fri, 21 Jul 2023 19:28:58 GMT
+Connection: close
+
+[ tv.vidio.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:58 GMT
+Date: Fri, 21 Jul 2023 19:28:58 GMT
+Connection: close
+
+[ tvegolf-i.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:58 GMT
+Date: Fri, 21 Jul 2023 19:28:58 GMT
+Connection: close
+
+[ tv-rmcnmv-pt.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:28:58 GMT
+Date: Fri, 21 Jul 2023 19:28:58 GMT
+Connection: close
+
+[ twbxo23aca3uqyqg7rfq-p5oib5-450e768ad-clientnsv4-s.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:28:59 GMT
+Date: Fri, 21 Jul 2023 19:28:59 GMT
+Connection: close
+
+[ ubistatic2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:01 GMT
+Date: Fri, 21 Jul 2023 19:29:01 GMT
+Connection: close
+
+[ ubistatic3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:01 GMT
+Date: Fri, 21 Jul 2023 19:29:01 GMT
+Connection: close
+
+[ uk.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ ultron.gcp.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ unityads.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:07 GMT
+Date: Fri, 21 Jul 2023 19:29:07 GMT
+Connection: close
+
+[ user-att-99-43-168-0.e30137.dsch.akamaiedge.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:12 GMT
+Date: Fri, 21 Jul 2023 19:29:12 GMT
+Connection: close
+
+[ user.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ ustvstaticcdn1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:14 GMT
+Date: Fri, 21 Jul 2023 19:29:14 GMT
+Connection: close
+
+[ v16-web.tiktok.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:16 GMT
+Date: Fri, 21 Jul 2023 19:29:16 GMT
+Connection: close
+
+[ v16-ad.byteoversea.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:16 GMT
+Date: Fri, 21 Jul 2023 19:29:16 GMT
+Connection: close
+
+[ v16-web-tv.tiktok.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:16 GMT
+Date: Fri, 21 Jul 2023 19:29:16 GMT
+Connection: close
+
+[ v16-web.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:17 GMT
+Date: Fri, 21 Jul 2023 19:29:17 GMT
+Connection: close
+
+[ v16.resso.app ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:17 GMT
+Date: Fri, 21 Jul 2023 19:29:17 GMT
+Connection: close
+
+[ v16.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:17 GMT
+Date: Fri, 21 Jul 2023 19:29:17 GMT
+Connection: close
+
+[ v16a.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:17 GMT
+Date: Fri, 21 Jul 2023 19:29:17 GMT
+Connection: close
+
+[ v16m-t.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:17 GMT
+Date: Fri, 21 Jul 2023 19:29:17 GMT
+Connection: close
+
+[ v16s.tiktokcdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:17 GMT
+Date: Fri, 21 Jul 2023 19:29:17 GMT
+Connection: close
+
+[ v538b0sk0dk0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:20 GMT
+Date: Fri, 21 Jul 2023 19:29:20 GMT
+Connection: close
+
+[ vas-maliva16.muscdn.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:21 GMT
+Date: Fri, 21 Jul 2023 19:29:21 GMT
+Connection: close
+
+[ vededlit-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:23 GMT
+Date: Fri, 21 Jul 2023 19:29:23 GMT
+Connection: close
+
+[ venue-image.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ venues.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ verification-va-useast1a.musical.ly ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:23 GMT
+Date: Fri, 21 Jul 2023 19:29:23 GMT
+Connection: close
+
+[ vdn-obs.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:23 GMT
+Date: Fri, 21 Jul 2023 19:29:23 GMT
+Connection: close
+
+[ verification16-normal-c-useast1a.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:23 GMT
+Date: Fri, 21 Jul 2023 19:29:23 GMT
+Connection: close
+
+[ verification-va.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:23 GMT
+Date: Fri, 21 Jul 2023 19:29:23 GMT
+Connection: close
+
+[ videocdn-4.iflix.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:28 GMT
+Date: Fri, 21 Jul 2023 19:29:28 GMT
+Connection: close
+
+[ videos.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ vizorklone2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:33 GMT
+Date: Fri, 21 Jul 2023 19:29:33 GMT
+Connection: close
+
+[ vizorloyalty3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:33 GMT
+Date: Fri, 21 Jul 2023 19:29:33 GMT
+Connection: close
+
+[ vizorloyalty2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:33 GMT
+Date: Fri, 21 Jul 2023 19:29:33 GMT
+Connection: close
+
+[ voa-22.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-15.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-13.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-11.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-16.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-17.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-18.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-35.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-28.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-14.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-3.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-37.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-85.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-39.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-38.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-27.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-48.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-91.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-96.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-53.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-9.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa106.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-78.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa104.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-76.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa-93.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa17.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa13.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:36 GMT
+Date: Fri, 21 Jul 2023 19:29:36 GMT
+Connection: close
+
+[ voa09.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa11.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa105.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa23.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa27.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa28.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa22.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa19.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa20.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa35.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa48.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa37.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa30.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa44.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa45.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa56.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa52.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa55.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa83.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa29.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa53.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa51.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa79.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa94.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa88.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ voa96.akacast.akamaistream.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ vod-dash-uk-live.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:37 GMT
+Date: Fri, 21 Jul 2023 19:29:37 GMT
+Connection: close
+
+[ vod.tokopedia.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:38 GMT
+Date: Fri, 21 Jul 2023 19:29:38 GMT
+Connection: close
+
+[ vod_hls_ndtv-vh.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:38 GMT
+Date: Fri, 21 Jul 2023 19:29:38 GMT
+Connection: close
+
+[ vos.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 207
+Expires: Fri, 21 Jul 2023 19:29:39 GMT
+Date: Fri, 21 Jul 2023 19:29:39 GMT
+Connection: close
+
+[ w.line-scdn.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:41 GMT
+Date: Fri, 21 Jul 2023 19:29:41 GMT
+Connection: close
+
+[ w4o7aea80ss3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:42 GMT
+Date: Fri, 21 Jul 2023 19:29:42 GMT
+Connection: close
+
+[ w.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:42 GMT
+Date: Fri, 21 Jul 2023 19:29:42 GMT
+Connection: close
+
+[ was.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ wave.spotify.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:29:45 GMT
+Connection: close
+
+[ waze.comweb-assets.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ wbinsights.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:29:45 GMT
+Date: Fri, 21 Jul 2023 19:29:45 GMT
+Connection: close
+
+[ wazeopedia.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ waze-tiles-legacy-cdn.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ web-assets.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ web-mobile.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ web-oaplus.line.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:29:47 GMT
+Date: Fri, 21 Jul 2023 19:29:47 GMT
+Connection: close
+
+[ webapp-ayayot.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:02 GMT
+Date: Fri, 21 Jul 2023 19:30:02 GMT
+Connection: close
+
+[ webcast16-useast2a.musical.ly ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:03 GMT
+Date: Fri, 21 Jul 2023 19:30:03 GMT
+Connection: close
+
+[ webcast.musical.ly ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:03 GMT
+Date: Fri, 21 Jul 2023 19:30:03 GMT
+Connection: close
+
+[ webdisk.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ webmail.langitmusik.co.id ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:30:21 GMT
+Connection: close
+
+[ webmail.uny.ac.id ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:30:24 GMT
+Connection: close
+
+[ webnew.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ websdk.appsflyer.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:25 GMT
+Date: Fri, 21 Jul 2023 19:30:25 GMT
+Connection: close
+
+[ wegoinc.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:26 GMT
+Date: Fri, 21 Jul 2023 19:30:26 GMT
+Connection: close
+
+[ wiki.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ wish.onelink.me ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:33 GMT
+Date: Fri, 21 Jul 2023 19:30:33 GMT
+Connection: close
+
+[ wofl.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:35 GMT
+Date: Fri, 21 Jul 2023 19:30:35 GMT
+Connection: close
+
+[ word.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ world-venue.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ world-venues.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ worldtiles.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ ww.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ wuzj6js7muoqwyqhboyq-ppebs0-592ed534f-clientnsv4-s.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:40 GMT
+Date: Fri, 21 Jul 2023 19:30:40 GMT
+Connection: close
+
+[ ww.w.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ wuzj6js7muoqwyqg7piq-pwbayi-aec001dcb-clientnsv4-s.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:40 GMT
+Date: Fri, 21 Jul 2023 19:30:40 GMT
+Connection: close
+
+[ www-sygic.akamaized.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:41 GMT
+Date: Fri, 21 Jul 2023 19:30:41 GMT
+Connection: close
+
+[ www.airtel.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:43 GMT
+Date: Fri, 21 Jul 2023 19:30:43 GMT
+Connection: close
+
+[ www.appsflyer.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:44 GMT
+Date: Fri, 21 Jul 2023 19:30:44 GMT
+Connection: close
+
+[ www.chnigxjw.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ www.h-mac.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:30:56 GMT
+Connection: close
+
+[ www.hotstar.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:30:58 GMT
+Date: Fri, 21 Jul 2023 19:30:58 GMT
+Connection: close
+
+[ www.india.gov.in ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:00 GMT
+Date: Fri, 21 Jul 2023 19:31:00 GMT
+Connection: close
+
+[ www.itbcatalysis.itb.ac.id ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Date: Fri, 21 Jul 2023 19:31:00 GMT
+Connection: close
+
+[ www.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:20 GMT
+Date: Fri, 21 Jul 2023 19:31:20 GMT
+Connection: close
+
+[ www.word.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ wwwvivatvpl-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:34 GMT
+Date: Fri, 21 Jul 2023 19:31:34 GMT
+Connection: close
+
+[ wwwprotothemagr.edgesuite.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:34 GMT
+Date: Fri, 21 Jul 2023 19:31:34 GMT
+Connection: close
+
+[ xfg27d08xi21-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:37 GMT
+Date: Fri, 21 Jul 2023 19:31:37 GMT
+Connection: close
+
+[ xjg4krc7muoqwyqg6vka-palv64-9fe20310b-clientnsv4-s.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:37 GMT
+Date: Fri, 21 Jul 2023 19:31:37 GMT
+Connection: close
+
+[ xl.waze.com ]---------------------------
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 273
+Connection: close
+
+[ xlog16-platform-ycru.tiktokv.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:38 GMT
+Date: Fri, 21 Jul 2023 19:31:38 GMT
+Connection: close
+
+[ xy2fby52pwnrsyqg4mva-pu86wv-686760332-clientnsv4-s.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:50 GMT
+Date: Fri, 21 Jul 2023 19:31:50 GMT
+Connection: close
+
+[ youlong3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:31:57 GMT
+Date: Fri, 21 Jul 2023 19:31:57 GMT
+Connection: close
+
+[ yuki-cdn.line-apps.com ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:31:59 GMT
+Date: Fri, 21 Jul 2023 19:31:59 GMT
+Connection: close
+
+[ zdnfarmarcade-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:03 GMT
+Date: Fri, 21 Jul 2023 19:32:03 GMT
+Connection: close
+
+[ zdnfarmarcade1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:32:03 GMT
+Date: Fri, 21 Jul 2023 19:32:03 GMT
+Connection: close
+
+[ zdnfarmtwo1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:03 GMT
+Date: Fri, 21 Jul 2023 19:32:03 GMT
+Connection: close
+
+[ zdnhir1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:04 GMT
+Date: Fri, 21 Jul 2023 19:32:04 GMT
+Connection: close
+
+[ zdnhir3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:04 GMT
+Date: Fri, 21 Jul 2023 19:32:04 GMT
+Connection: close
+
+[ zdnzrt1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:05 GMT
+Date: Fri, 21 Jul 2023 19:32:05 GMT
+Connection: close
+
+[ zdnwoz3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:05 GMT
+Date: Fri, 21 Jul 2023 19:32:05 GMT
+Connection: close
+
+[ zdnzrt2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:32:05 GMT
+Date: Fri, 21 Jul 2023 19:32:05 GMT
+Connection: close
+
+[ zdnzrt3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:05 GMT
+Date: Fri, 21 Jul 2023 19:32:05 GMT
+Connection: close
+
+[ zdndrawings3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:06 GMT
+Date: Fri, 21 Jul 2023 19:32:06 GMT
+Connection: close
+
+[ zdbb.speedtest.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:07 GMT
+Date: Fri, 21 Jul 2023 19:32:07 GMT
+Connection: close
+
+[ zdnfarmtwo2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:07 GMT
+Date: Fri, 21 Jul 2023 19:32:07 GMT
+Connection: close
+
+[ zdstatic.speedtest.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:07 GMT
+Date: Fri, 21 Jul 2023 19:32:07 GMT
+Connection: close
+
+[ zdnpbride2-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:07 GMT
+Date: Fri, 21 Jul 2023 19:32:07 GMT
+Connection: close
+
+[ zdnpbride0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:32:07 GMT
+Date: Fri, 21 Jul 2023 19:32:07 GMT
+Connection: close
+
+[ zdnstudioe1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:07 GMT
+Date: Fri, 21 Jul 2023 19:32:07 GMT
+Connection: close
+
+[ zdnpbride3-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:07 GMT
+Date: Fri, 21 Jul 2023 19:32:07 GMT
+Connection: close
+
+[ zdnwonka0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 209
+Expires: Fri, 21 Jul 2023 19:32:08 GMT
+Date: Fri, 21 Jul 2023 19:32:08 GMT
+Connection: close
+
+[ zdnwonka1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:08 GMT
+Date: Fri, 21 Jul 2023 19:32:08 GMT
+Connection: close
+
+[ zdnwoz0-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:08 GMT
+Date: Fri, 21 Jul 2023 19:32:08 GMT
+Connection: close
+
+[ zynga1-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:09 GMT
+Date: Fri, 21 Jul 2023 19:32:09 GMT
+Connection: close
+
+[ zthumbor01-a.akamaihd.net ]---------------------------
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 208
+Expires: Fri, 21 Jul 2023 19:32:12 GMT
+Date: Fri, 21 Jul 2023 19:32:12 GMT
+Connection: close
+

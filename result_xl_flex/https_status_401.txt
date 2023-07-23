@@ -1,0 +1,20 @@
+[ cachewriter-au.teams.microsoft.com ]---------------------------
+Unauthorized Certificate.
+[ cachewriter-emea.teams.microsoft.com ]---------------------------
+Unauthorized Certificate.
+[ chatsvcagg-df.teams.microsoft.com ]---------------------------
+User is not authorized.
+[ chatsvcagg-msft.teams.microsoft.com ]---------------------------
+User is not authorized.
+[ cachewriter-fr.teams.microsoft.com ]---------------------------
+Unauthorized Certificate.
+[ cachewriter-ca.teams.microsoft.com ]---------------------------
+Unauthorized Certificate.
+[ chatsvcagg-test.teams.microsoft.com ]---------------------------
+User is not authorized.
+[ monitoringplatform-ppe.teams.microsoft.com ]---------------------------
+{"data":null,"error":{"code":"401","message":"Authentication failed. Authentication header cannot be empty","details":null}}
+[ monitoringplatform-dev.teams.microsoft.com ]---------------------------
+{"data":null,"error":{"code":"401","message":"Authentication failed. Authentication header cannot be empty","details":null}}
+[ cachewriter-uk.teams.microsoft.com ]---------------------------
+Unauthorized Certificate.

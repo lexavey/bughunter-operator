@@ -1,0 +1,40 @@
+[ connect.bizportal.singtel.com ]---------------------------
+HTTP/1.1 500 Internal Server Error
+Date: Fri, 21 Jul 2023 19:15:21 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 622
+Connection: keep-alive
+Server: Apache
+
+[ dataeshop.bizportal.singtel.com ]---------------------------
+HTTP/1.1 500 Internal Server Error
+Date: Fri, 21 Jul 2023 19:15:57 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 622
+Connection: keep-alive
+Server: Apache
+
+[ gasingtelshop.bizportal.singtel.com ]---------------------------
+HTTP/1.1 500 Internal Server Error
+Date: Fri, 21 Jul 2023 19:17:55 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 622
+Connection: keep-alive
+Server: Apache
+
+[ metroe.bizportal.singtel.com ]---------------------------
+HTTP/1.1 500 Internal Server Error
+Date: Fri, 21 Jul 2023 19:22:47 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 622
+Connection: keep-alive
+Server: Apache
+
+[ tms.bizportal.singtel.com ]---------------------------
+HTTP/1.1 500 Internal Server Error
+Date: Fri, 21 Jul 2023 19:28:41 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 622
+Connection: keep-alive
+Server: Apache
+
