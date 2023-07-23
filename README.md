@@ -1,10 +1,12 @@
 # bughunter-operator
 
 ## Requirements
-Install `curl` `openssl` `nmap` `git` `perl`
+
+Install `curl` `openssl` `nmap` `git` `perl` `python`
 
     apt update && apt upgrade
-    apt install curl nmap openssl git perl -y
+    apt install curl nmap openssl git perl python -y
+
 ## Quickstart
 ### Step 1 
 #### Download 
@@ -14,11 +16,10 @@ Install `curl` `openssl` `nmap` `git` `perl`
 ### Step 2 
 #### Get list 
     mkdir -p list
-    cp archive/random/whatsapp.com.txt list/
-    cp archive/xl/xl.co.id.txt list/
+    cp archive/random/urls_universal.txt list/
 ### Step 3 
-#### Disconnect your WIFI & Use 0 balance 0 data SIMCARD 
-    ./scan.sh scan sni_curl bulk
+#### Disconnect your WiFi & Use 0 balance 0 data SIMCARD 
+    ./scan.sh scan sni bulk
 
 ## Common error
 #### Error message
