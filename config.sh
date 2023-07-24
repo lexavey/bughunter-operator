@@ -5,7 +5,7 @@ export DEFAULT_USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
 # export BLACKLIST_REDIRECT="http://kuotahabis.tri.co.id/frontpage/" ## http_status,https_status,proxy
 # export BLACKLIST_REDIRECT="http://123.xl.co.id/min_balance8" ## http_status,https_status,proxy
 
-export BLACKLIST_REDIRECT="https://myim3.ioh.co.id/,http://kuotahabis.tri.co.id/frontpage/,http://123.xl.co.id/min_balance8"
+export BLACKLIST_REDIRECT="https://myim3.ioh.co.id/,http://kuotahabis.tri.co.id/frontpage/,http://123.xl.co.id/min_balance8,http://123.xl.co.id/min_balance"
 # echo ${BLACKLIST_URL[1]}
 export DEFAULT_CONNECT_TIMEOUT="5" ## sni_curl
 export DEFAULT_MAX_TIMEOUT="5" ## sni_curl

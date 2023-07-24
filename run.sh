@@ -57,7 +57,7 @@ function_sni(){
         printf "\n"
         echo "$LINE">>"result/sni.txt"
     else
-        printf "[~%0${PAD_NUMBER_LENGTH}d~ ~%s~]~[~${red}%s${resetColor}~]~%-${terminal_width}s~" "${LINE_NUM}" "${TOTAL_LINE}" "SNI" "$LINE"| tr ' ~' '- '
+        printf "[~%0${PAD_NUMBER_LENGTH}d~ ~%s~]~[~${red}%s${resetColor}~]~%-${terminal_width}s~" "${LINE_NUM}" "${TOTAL_LINE}" "OFF" "$LINE"| tr ' ~' '- '
         printf "\r"
     fi
 }
@@ -128,7 +128,7 @@ function_https_ws(){
         #     rm -rf $tmp_file
         #     exit;
         # fi
-        printf "[~%0${PAD_NUMBER_LENGTH}d~ ~%s~]~[~${red}%s${resetColor}~]~%-${terminal_width}s~" "${LINE_NUM}" "${TOTAL_LINE}" $code "$LINE"| tr ' ~' '- '
+        printf "[~%0${PAD_NUMBER_LENGTH}d~ ~%s~]~[~${red}%s${resetColor}~]~%-${terminal_width}s~" "${LINE_NUM}" "${TOTAL_LINE}" "NULL" "$LINE"| tr ' ~' '- '
         printf "\r"
         # echo "$LINE">>"result/https_ws_${code}.txt"
         # printf "%s\n%s\n" "[ $LINE ]" "$(cat $tmp_file | head -n 10)">>"result/https_ws_${code}_details.txt"
@@ -311,6 +311,10 @@ function_proxy(){
 }
 function_get_folder(){
     folder=$1
+    if [ ! -e "$folder" ] || [ ! -f "$folder" ] && [ ! -d "$folder" ]; then
+        echo "Error: "${folder}" Kosong."
+        exit;
+    fi
     function_to_exec=$2
     echo "Thread                : $DEFAULT_THREAD"
     echo "Timeout               : $DEFAULT_TIMEOUT"
