@@ -1,0 +1,13 @@
+.*
+!/.gitignore
+tmp
+list
+list.1
+list.2
+result
+result_xl_flex_matek
+result_xl_flex
+result_xl_matek
+result.old
+tmp
+dummy
